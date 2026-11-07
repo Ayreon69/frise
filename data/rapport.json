@@ -1,0 +1,6642 @@
+[
+ {
+  "card": "Premier vol humain en montgolfière",
+  "year": 1783,
+  "wiki": "Montgolfière",
+  "article": "Montgolfière",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Une montgolfière est un aérostat composé d'un panier surmonté d'une enveloppe remplie d'air chaud, ce qui assure sa sustentation par la poussée d'Archimède issue de la différence de densité entre l'air ambiant et l'air c",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier vol motorisé des frères Wright",
+  "year": 1903,
+  "wiki": "Wright Flyer",
+  "article": "Wright Flyer",
+  "wikidata": {
+   "premier vol": [
+    [
+     1903,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1903,
+     9
+    ],
+    [
+     1903,
+     11
+    ],
+    [
+     1927,
+     9
+    ],
+    [
+     1985,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Wright Flyer est l'avion avec lequel les frères Wright effectuent les premiers vols contrôlés et motorisés de l'histoire de l'aviation, à Kitty Hawk en Caroline du Nord le 17 décembre 1903",
+  "status": "OK"
+ },
+ {
+  "card": "Blériot traverse la Manche en avion",
+  "year": 1909,
+  "wiki": "Traversée de la Manche en avion",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Le daguerréotype présenté à l'Académie des sciences",
+  "year": 1839,
+  "wiki": "Daguerréotype",
+  "article": "Daguerréotype",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1839,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Le daguerréotype est un procédé photographique mis au point par Nicéphore Niépce et Louis Daguerre. Il produit une image sans négatif sur une surface d'argent pur, polie comme un miroir, exposée directement à la lumière.",
+  "status": "WD"
+ },
+ {
+  "card": "Brevet du téléphone de Graham Bell",
+  "year": 1876,
+  "wiki": "Téléphone",
+  "article": "Téléphone",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1876,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Le téléphone est un appareil de communication initialement conçu pour transmettre la voix humaine et pouvoir communiquer à distance.\nPour fonctionner, le téléphone nécessite une infrastructure terrestre ou spatiale : le ",
+  "status": "WD"
+ },
+ {
+  "card": "Edison invente le phonographe",
+  "year": 1877,
+  "wiki": "Phonographe",
+  "article": "Phonographe",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1877,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Le phonographe est un appareil destiné d'abord à graver, puis à reproduire du son (paroles ou musiques) par un procédé purement mécanique. \nCe terme désigne les appareils utilisant un cylindre ou des cylindres amovibles ",
+  "status": "WD"
+ },
+ {
+  "card": "Première projection payante du cinématographe Lumière",
+  "year": 1895,
+  "wiki": "Première projection publique du cinématographe Lumière",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Brevet de la machine à vapeur de James Watt",
+  "year": 1769,
+  "wiki": "Machine à vapeur de Watt",
+  "article": "Machine de Watt",
+  "wikidata": {
+   "création": [
+    [
+     1776,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "La machine de Watt (également connue sous le nom de moteur à vapeur Boulton & Watt) a apporté des améliorations fondamentales aux machines à vapeur précédentes. Ce fut notamment la première machine à vapeur à utiliser un",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "La locomotive Rocket de Stephenson",
+  "year": 1829,
+  "wiki": "Rocket (locomotive)",
+  "article": "Fusée de Stephenson",
+  "wikidata": {
+   "mise en service": [
+    [
+     1829,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Construite en 1829 à l'occasion du concours de Rainhill, elle était constituée d'une chaudière tubulaire horizontale et était mue par deux cylindres, situés de chaque côté de la locomotive, inclinés à 35°",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture de la ligne de train Liverpool–Manchester",
+  "year": 1830,
+  "wiki": "Liverpool and Manchester Railway",
+  "article": "Liverpool and Manchester Railway",
+  "wikidata": {
+   "création": [
+    [
+     1823,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1830,
+     11
+    ]
+   ],
+   "fermeture": [
+    [
+     1845,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Ouverte au public le 15 septembre 1830, celle-ci est généralement considérée comme la première ligne ferroviaire interurbaine publique conçue dès l'origine pour transporter à la fois des voyageurs et des marchandises au ",
+  "status": "OK"
+ },
+ {
+  "card": "Brevet de l'automobile de Carl Benz",
+  "year": 1886,
+  "wiki": "Benz Patent-Motorwagen",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Lancement de la Ford T",
+  "year": 1908,
+  "wiki": "Ford T",
+  "article": "Ford T",
+  "wikidata": {
+   "création": [
+    [
+     1908,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1908,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Ford T (familièrement surnommée « Tin Lizzie » ou Flivver aux États-Unis) est une automobile fabriquée de 1908 à 1927 par Ford Motor Company sous la direction de Henry Ford",
+  "status": "OK"
+ },
+ {
+  "card": "Fleming découvre la pénicilline",
+  "year": 1928,
+  "wiki": "Pénicilline",
+  "article": "Pénicilline",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1928,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La benzylpénicilline (ou pénicilline G) est redécouverte le 3 septembre 1928, par le Britannique Alexander Fleming",
+  "status": "OK"
+ },
+ {
+  "card": "Pasteur vaccine Joseph Meister contre la rage",
+  "year": 1885,
+  "wiki": "Joseph Meister",
+  "article": "Joseph Meister",
+  "wikidata": {
+   "naissance": [
+    [
+     1876,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1940,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Joseph Meister, né le 21 février 1876 à Paris et mort le 24 juin 1940 dans la même ville, est un Alsacien qui, à l'âge de neuf ans, après avoir été mordu 14 fois par un chien, fut vacciné contre la rage par le Professeur",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Röntgen découvre les rayons X",
+  "year": 1895,
+  "wiki": "Rayon X",
+  "article": "Rayon X",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Ce rayonnement a été découvert en 1895 par le physicien allemand Wilhelm Röntgen, qui a reçu pour cela le premier prix Nobel de physique ; il lui donna le nom habituel de l'inconnue en mathématiques, X",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Becquerel découvre la radioactivité",
+  "year": 1896,
+  "wiki": "Radioactivité",
+  "article": "Radioactivité",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "La radioactivité a été découverte en 1896 par Henri Becquerel dans le cas de l'uranium, et très vite confirmée par Pierre et Marie Curie pour le radium",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Watson et Crick décrivent la double hélice de l'ADN",
+  "year": 1953,
+  "wiki": "Structure de l'ADN",
+  "article": "Acide désoxyribonucléique",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "L'acide désoxyribonucléique, ou ADN, est une macromolécule biologique présente dans presque toutes les cellules ainsi que chez de nombreux virus. L'ADN contient toute l'information génétique, appelée génome, permettant l",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premiers pas d'un humain sur la Lune",
+  "year": 1969,
+  "wiki": "Apollo 11",
+  "article": "Apollo 11",
+  "wikidata": {
+   "lancement": [
+    [
+     1969,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1969,
+     11
+    ],
+    [
+     1969,
+     11
+    ],
+    [
+     1969,
+     11
+    ],
+    [
+     1969,
+     11
+    ],
+    [
+     1969,
+     11
+    ],
+    [
+     1969,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Apollo 11 est une mission du programme spatial américain Apollo au cours de laquelle, pour la première fois, des hommes se sont posés sur la Lune, le lundi 21 juillet 1969",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement de Spoutnik 1, premier satellite",
+  "year": 1957,
+  "wiki": "Spoutnik 1",
+  "article": "Spoutnik 1",
+  "wikidata": {
+   "lancement": [
+    [
+     1957,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1957,
+     11
+    ],
+    [
+     1957,
+     11
+    ],
+    [
+     1958,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Cet engin spatial soviétique, premier de la série de satellites Spoutnik, est lancé le 4 octobre 1957 depuis le cosmodrome de Baïkonour par un lanceur R-7 Semiorka, un missile balistique intercontinental développé par l'",
+  "status": "OK"
+ },
+ {
+  "card": "Youri Gagarine, premier humain dans l'espace",
+  "year": 1961,
+  "wiki": "Vostok 1",
+  "article": "Vostok 1",
+  "wikidata": {
+   "lancement": [
+    [
+     1961,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1961,
+     11
+    ],
+    [
+     1961,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Vostok 1 (en russe : Восток 1) est le premier vol spatial habité de l'histoire spatiale et la première mission du programme Vostok.",
+  "status": "WD"
+ },
+ {
+  "card": "Tim Berners-Lee propose le World Wide Web",
+  "year": 1989,
+  "wiki": "World Wide Web",
+  "article": "World Wide Web",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1989,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Inventé en 1989-1990 au CERN par Tim Berners-Lee épaulé de Robert Cailliau, le Web popularise Internet",
+  "status": "OK"
+ },
+ {
+  "card": "Steve Jobs présente le premier iPhone",
+  "year": 2007,
+  "wiki": "iPhone (1re génération)",
+  "article": "IPhone 2G",
+  "wikidata": {
+   "création": [
+    [
+     2007,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     2007,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Après des années de rumeurs, il est annoncé en janvier 2007 et est commercialisé en juin 2007 aux États-Unis",
+  "status": "OK"
+ },
+ {
+  "card": "Fondation de Google",
+  "year": 1998,
+  "wiki": "Google",
+  "article": "Google",
+  "wikidata": {
+   "création": [
+    [
+     1998,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2026,
+     10
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "gœl] , est une entreprise américaine de services technologiques et de marketing en ligne fondée en 1998 dans la Silicon Valley, en Californie, par Larry Page et Sergey Brin, créateurs du moteur de recherche Google",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement de Facebook",
+  "year": 2004,
+  "wiki": "Facebook",
+  "article": "Facebook",
+  "wikidata": {
+   "création": [
+    [
+     2004,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2021,
+     11
+    ],
+    [
+     2022,
+     9
+    ],
+    [
+     2023,
+     11
+    ],
+    [
+     2019,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Zuckerberg crée Facebook en 2004 pendant ses études, avec ses camarades de l'université Harvard : Chris Hughes, Eduardo Saverin, Andrew McCollum et Dustin Moskovitz",
+  "status": "OK"
+ },
+ {
+  "card": "Mise en ligne de YouTube",
+  "year": 2005,
+  "wiki": "YouTube",
+  "article": "YouTube",
+  "wikidata": {
+   "création": [
+    [
+     2005,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'application web est créée en février 2005 par Steve Chen, Chad Hurley et Jawed Karim, trois anciens employés de PayPal",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement de Wikipédia",
+  "year": 2001,
+  "wiki": "Wikipédia",
+  "article": "Wikipédia",
+  "wikidata": {
+   "création": [
+    [
+     2001,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "dja] ) est une encyclopédie en ligne collaborative et multilingue créée par Jimmy Wales et Larry Sanger le 15 janvier 2001",
+  "status": "OK"
+ },
+ {
+  "card": "Envoi du premier SMS",
+  "year": 1992,
+  "wiki": "Short Message Service",
+  "article": "Short Message Service",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Un SMS (pour « Short Message Service » , aussi appelé « texto ») est un des services de la téléphonie mobile introduit par la norme GSM qui permet de transmettre de courts messages textuels. Le terme de « messagerie text",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Roland Moreno dépose le brevet de la carte à puce",
+  "year": 1974,
+  "wiki": "Carte à puce",
+  "article": "Carte à puce",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Une carte à puce est une carte en matière plastique, en papier ou en carton, de quelques centimètres de côté et moins d'un millimètre d'épaisseur, portant au moins un circuit intégré capable de contenir de l'information.",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier vol du Concorde",
+  "year": 1969,
+  "wiki": "Concorde (avion)",
+  "article": "Concorde (avion)",
+  "wikidata": {
+   "premier vol": [
+    [
+     1969,
+     11
+    ]
+   ],
+   "mise en service": [
+    [
+     1976,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1965,
+     9
+    ],
+    [
+     2000,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Son premier vol a eu lieu en 1969",
+  "status": "OK"
+ },
+ {
+  "card": "Mise en service du TGV Paris–Lyon",
+  "year": 1981,
+  "wiki": "LGV Sud-Est",
+  "article": "LGV Sud-Est",
+  "wikidata": {
+   "création": [
+    [
+     1981,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1981,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Sa mise en service partielle en 1981, avec l'inauguration du premier tronçon entre Saint-Florentin (Yonne) et Sathonay (Rhône) le 22 septembre, a durablement marqué le renouveau du transport ferroviaire de voyageurs, et ",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration du tunnel sous la Manche",
+  "year": 1994,
+  "wiki": "Tunnel sous la Manche",
+  "article": "Tunnel sous la Manche",
+  "wikidata": {
+   "création": [
+    [
+     1993,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1994,
+     11
+    ]
+   ],
+   "mise en service": [
+    [
+     1994,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1987,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le tunnel est inauguré le 6 mai 1994 et ouvert au service commercial depuis le 1er juin 1994",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration du viaduc de Millau",
+  "year": 2004,
+  "wiki": "Viaduc de Millau",
+  "article": "Viaduc de Millau",
+  "wikidata": {
+   "création": [
+    [
+     2001,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     2004,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le viaduc de Millau est un remarquable pont à haubans français, franchissant la vallée du Tarn, dans le département de l'Aveyron, long de près de 2,5 km et inauguré le 14 décembre 2004",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de l'ordinateur Apple II",
+  "year": 1977,
+  "wiki": "Apple II",
+  "article": "Apple II",
+  "wikidata": {
+   "publication": [
+    [
+     1977,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Conçu par Steve Wozniak, commercialisé le 10 juin 1977 par Apple, il commence sa carrière auprès des particuliers passionnés, mais la sortie du premier tableur, VisiCalc en 1979 permit son entrée dans le monde profession",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du premier Macintosh",
+  "year": 1984,
+  "wiki": "Macintosh 128K",
+  "article": "Macintosh 128K",
+  "wikidata": {
+   "création": [
+    [
+     1984,
+     11
+    ]
+   ],
+   "mise en service": [
+    [
+     1984,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Macintosh 128K est le premier ordinateur personnel de la famille des Macintosh lancé par Apple le 24 janvier 1984",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de la Game Boy",
+  "year": 1989,
+  "wiki": "Game Boy",
+  "article": "Game Boy",
+  "wikidata": {
+   "publication": [
+    [
+     1989,
+     11
+    ],
+    [
+     1989,
+     11
+    ],
+    [
+     1990,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Mise en vente au Japon le 21 avril 1989, puis en Amérique du Nord en juillet 1989, et enfin en Europe le 28 septembre 1990, elle est la première console portable de la gamme des Game Boy",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de la PlayStation au Japon",
+  "year": 1994,
+  "wiki": "PlayStation",
+  "article": "PlayStation",
+  "wikidata": {
+   "publication": [
+    [
+     1994,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle sort au Japon le 3 décembre 1994, en Amérique du Nord le 9 septembre 1995, en Europe le 29 septembre 1995 et en Australie le 15 novembre 1995",
+  "status": "OK"
+ },
+ {
+  "card": "Sony lance le Walkman",
+  "year": 1979,
+  "wiki": "Walkman",
+  "article": "Walkman",
+  "wikidata": {
+   "création": [
+    [
+     1979,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Walkman est une marque déposée par l'entreprise Sony qui historiquement désigne les baladeurs à cassette qu'elle a vendus depuis 1979",
+  "status": "OK"
+ },
+ {
+  "card": "Le disque compact arrive en magasin",
+  "year": 1982,
+  "wiki": "Disque compact",
+  "article": "Disque compact",
+  "wikidata": {
+   "création": [
+    [
+     1979,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Le disque compact est développé par Sony et Philips et commercialisé à partir de décembre 1982 (mars 1983 en France)",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Baird fait la démonstration de la télévision",
+  "year": 1926,
+  "wiki": "John Logie Baird",
+  "article": "John Logie Baird",
+  "wikidata": {
+   "naissance": [
+    [
+     1888,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1946,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "John Logie Baird, né le 13 août 1888 à Helensburgh (Écosse) et mort le 14 juin 1946 à Bexhill-on-Sea (Angleterre), est un ingénieur écossais connu pour avoir notamment inventé un des premiers systèmes de télévision animé",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Marconi envoie un message radio à travers l'Atlantique",
+  "year": 1901,
+  "wiki": "Guglielmo Marconi",
+  "article": "Guglielmo Marconi",
+  "wikidata": {
+   "naissance": [
+    [
+     1874,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1937,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Guglielmo Marconi, né le 25 avril 1874 à Bologne et mort le 20 juillet 1937 à Rome, est un physicien, inventeur et homme d'affaires italien. Il est considéré comme l’un des inventeurs de la radio et de la télégraphie san",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier message télégraphique de Morse",
+  "year": 1844,
+  "wiki": "Samuel Morse",
+  "article": "Samuel Morse",
+  "wikidata": {
+   "naissance": [
+    [
+     1791,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1872,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Samuel Morse, né le 27 avril 1791 à Charlestown (Massachusetts) et mort le 2 avril 1872 à New York (État de New York), est un artiste et scientifique américain, connu pour avoir développé un télégraphe électrique et un a",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Première ligne du télégraphe Chappe",
+  "year": 1794,
+  "wiki": "Télégraphe Chappe",
+  "article": "Télégraphe Chappe",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1791,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Le télégraphe Chappe (ou télégraphe aérien) est un moyen de communication (télégraphe) visuel français par sémaphore effectif sur des distances de plusieurs centaines de kilomètres, inventé par le Français Claude Chappe ",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Laennec invente le stéthoscope",
+  "year": 1816,
+  "wiki": "Stéthoscope",
+  "article": "Stéthoscope",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Un stéthoscope est un instrument acoustique, servant principalement, dans le domaine médical ou vétérinaire (pour les animaux d'une certaine taille), pour l'auscultation, c’est-à-dire l'écoute des sons internes du corps.",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Louis Braille publie son alphabet",
+  "year": 1829,
+  "wiki": "Braille",
+  "article": "Braille",
+  "wikidata": {
+   "création": [
+    [
+     1824,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "En 1829 paraît le premier exposé de sa méthode",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Alfred Nobel brevète la dynamite",
+  "year": 1867,
+  "wiki": "Dynamite",
+  "article": "Dynamite",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1867,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "La dynamite est un explosif solide à base de nitroglycérine. Inventée par Alfred Nobel en 1866, la dynamite est le premier explosif détonant à s'être diffusé largement. Elle a été très utilisée, notamment dans l'industri",
+  "status": "WD"
+ },
+ {
+  "card": "Premiers prix Nobel décernés",
+  "year": 1901,
+  "wiki": "Prix Nobel",
+  "article": "Prix Nobel",
+  "wikidata": {
+   "création": [
+    [
+     1901,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Remis pour la première fois en 1901, les prix sont décernés chaque année à des personnes « ayant apporté le plus grand bénéfice à l'humanité », par leurs inventions, découvertes et améliorations dans différents domaines ",
+  "status": "OK"
+ },
+ {
+  "card": "Mendeleïev publie son tableau périodique",
+  "year": 1869,
+  "wiki": "Tableau périodique des éléments",
+  "article": "Tableau périodique des éléments",
+  "wikidata": {
+   "création": [
+    [
+     1869,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La conception de ce tableau est généralement attribuée au chimiste russe Dmitri Ivanovitch Mendeleïev, qui, en 1869, construisit une table, différente de celle qu'on utilise aujourd'hui, mais semblable dans son principe,",
+  "status": "OK"
+ },
+ {
+  "card": "Einstein publie la relativité restreinte",
+  "year": 1905,
+  "wiki": "Relativité restreinte",
+  "article": "Relativité restreinte",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1905,
+     9
+    ]
+   ],
+   "création": [
+    [
+     1905,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La relativité restreinte est la théorie élaborée par Albert Einstein en 1905 en vue de tirer toutes les conséquences physiques de la relativité galiléenne et du principe selon lequel la vitesse de la lumière dans le vide",
+  "status": "OK"
+ },
+ {
+  "card": "Darwin publie L'Origine des espèces",
+  "year": 1859,
+  "wiki": "L'Origine des espèces",
+  "article": "L'Origine des espèces",
+  "wikidata": {
+   "publication": [
+    [
+     1859,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'Origine des espèces (On the Origin of Species) est un ouvrage scientifique de Charles Darwin, publié le 24 novembre 1859 pour sa première édition anglaise sous le titre L'origine des espèces au moyen de la sélection na",
+  "status": "OK"
+ },
+ {
+  "card": "Galilée découvre les lunes de Jupiter",
+  "year": 1610,
+  "wiki": "Satellites galiléens",
+  "article": "Satellites galiléens",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Ils sont observés pour la première fois par Galilée en janvier 1610 grâce à l'amélioration de sa lunette astronomique et leur découverte est publiée dans Sidereus nuncius en mars 1610",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Copernic publie sa théorie du Soleil au centre",
+  "year": 1543,
+  "wiki": "De revolutionibus orbium coelestium",
+  "article": "Des révolutions des sphères célestes",
+  "wikidata": {
+   "publication": [
+    [
+     1543,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "De revolutionibus orbium coelestium (Des révolutions des orbes célestes ou des sphères célestes) est l'œuvre de l'astronome polonais Nicolas Copernic (1473-1543) sur l'héliocentrisme, est imprimée pour la première fois e",
+  "status": "OK"
+ },
+ {
+  "card": "Newton publie les Principia",
+  "year": 1687,
+  "wiki": "Philosophiæ naturalis principia mathematica",
+  "article": "Philosophiæ naturalis principia mathematica",
+  "wikidata": {
+   "création": [
+    [
+     1680,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1687,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Cet ouvrage en latin est publié à Londres en 1687",
+  "status": "OK"
+ },
+ {
+  "card": "Découverte de la planète Neptune",
+  "year": 1846,
+  "wiki": "Neptune (planète)",
+  "article": "Neptune (planète)",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1846,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les astronomes britannique John Couch Adams en 1843 et français Urbain Le Verrier en 1846 calculèrent indépendamment la position prévue de cette hypothétique planète",
+  "status": "OK"
+ },
+ {
+  "card": "Découverte de Pluton",
+  "year": 1930,
+  "wiki": "Pluton (planète naine)",
+  "article": "Pluton (planète naine)",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1930,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Après sa découverte par l'astronome américain Clyde Tombaugh en 1930, Pluton était considérée comme la neuvième planète du Système solaire",
+  "status": "OK"
+ },
+ {
+  "card": "Pluton perd son titre de planète",
+  "year": 2006,
+  "wiki": "Définition des planètes",
+  "article": "Définition des planètes",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "En 2006, l'Union astronomique internationale (UAI), reconnue par les astronomes comme l'autorité mondiale chargée de résoudre les conflits de nomenclature, a publié sa décision sur ce sujet",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Naissance de Louise Brown, premier bébé éprouvette",
+  "year": 1978,
+  "wiki": "Louise Brown",
+  "article": "Louise Brown",
+  "wikidata": {
+   "naissance": [
+    [
+     1978,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Louise Joy Brown, de nationalité britannique, est le premier « bébé éprouvette » au monde, c'est-à-dire conçu par fécondation in vitro (FIV). La naissance de Louise a ouvert un nouveau chapitre de la médecine relatif au ",
+  "status": "WD"
+ },
+ {
+  "card": "Naissance de la brebis Dolly, premier clone",
+  "year": 1996,
+  "wiki": "Dolly (brebis)",
+  "article": "Dolly (brebis)",
+  "wikidata": {
+   "naissance": [
+    [
+     1996,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     2003,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Dolly, née le 5 juillet 1996 à Roslin (Royaume-Uni) (Institut Roslin) et morte le 14 février 2003 au même endroit, est une brebis célèbre pour être le premier clone de mammifère de l'histoire, obtenu à partir d'un noyau ",
+  "status": "OK"
+ },
+ {
+  "card": "Première greffe du cœur",
+  "year": 1967,
+  "wiki": "Christiaan Barnard",
+  "article": "Christiaan Barnard",
+  "wikidata": {
+   "naissance": [
+    [
+     1922,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     2001,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Christiaan Barnard, né le 8 novembre 1922 à Beaufort West (Union d'Afrique du Sud) et mort le 2 septembre 2001 à Paphos (Chypre), est un chirurgien cardiaque sud-africain, qui devint célèbre pour avoir réussi la première",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Annonce de la découverte du boson de Higgs",
+  "year": 2012,
+  "wiki": "Boson de Higgs",
+  "article": "Boson de Higgs",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     2012,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Son existence est postulée en 1964 et confirmée de manière expérimentale en 2012 grâce à l'utilisation du Grand collisionneur de hadrons (LHC) du CERN",
+  "status": "OK"
+ },
+ {
+  "card": "Première image d'un trou noir",
+  "year": 2019,
+  "wiki": "M87*",
+  "article": "M87*",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "C'est le premier trou noir à être imagé par interférométrie à très longue base, le 10 avril 2019, par l'équipe de l'Event Horizon Telescope",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Première détection d'ondes gravitationnelles",
+  "year": 2015,
+  "wiki": "GW150914",
+  "article": "GW150914",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     2015,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La détection a été faite le 14 septembre 2015 à 9 h 50 min 45 s UTC sur les deux sites américains jumeaux LIGO construits dans les États de Louisiane et de Washington à trois mille kilomètres de distance",
+  "status": "OK"
+ },
+ {
+  "card": "Jenner teste le premier vaccin contre la variole",
+  "year": 1796,
+  "wiki": "Edward Jenner",
+  "article": "Edward Jenner",
+  "wikidata": {
+   "naissance": [
+    [
+     1749,
+     11
+    ],
+    [
+     1749,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1823,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Edward Jenner, né le 17 mai 1749 à Berkeley (Gloucestershire) où il meurt le 26 janvier 1823, membre de la Royal Society, est un scientifique et médecin anglais qui étudie les sciences naturelles dans son environnement à",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "L'OMS déclare la variole éradiquée",
+  "year": 1980,
+  "wiki": "Variole",
+  "article": "Variole",
+  "wikidata": {
+   "début": [
+    [
+     -10000,
+     5
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "La variole est officiellement déclarée éradiquée le 8 mai 1980 par l'Organisation mondiale de la santé (OMS) grâce à des campagnes de vaccination dès 1958, et une « stratégie de surveillance et d'endiguement » mise en œu",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Lancement du stylo Bic Cristal",
+  "year": 1950,
+  "wiki": "Bic Cristal",
+  "article": "Bic Cristal",
+  "wikidata": {
+   "création": [
+    [
+     1950,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Bic Cristal est un stylo à bille jetable inventé par Marcel Bich et fabriqué par la Société Bic depuis décembre 1950",
+  "status": "OK"
+ },
+ {
+  "card": "Brevet de la brique Lego moderne",
+  "year": 1958,
+  "wiki": "Lego",
+  "article": "Lego",
+  "wikidata": {
+   "création": [
+    [
+     1949,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Lego est une gamme de jouets de construction fabriqués par le groupe danois The Lego Group, une société privée basée à Billund. Elle se compose de briques en plastique emboîtables, de figurines et de diverses autres pièc",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Ernő Rubik invente son cube",
+  "year": 1974,
+  "wiki": "Rubik's Cube",
+  "article": "Rubik's Cube",
+  "wikidata": {
+   "création": [
+    [
+     1974,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Rubik's Cube (ou cube de Rubik) est un casse-tête inventé par Ernő Rubik en 1974, et qui s'est rapidement répandu sur toute la planète au cours des années 1980",
+  "status": "OK"
+ },
+ {
+  "card": "Le Monopoly est édité par Parker Brothers",
+  "year": 1935,
+  "wiki": "Monopoly",
+  "article": "Monopoly",
+  "wikidata": {
+   "création": [
+    [
+     1935,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1937,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Le Monopoly (litt. « monopole » en anglais) est un jeu de société américain édité par Hasbro. Le but du jeu consiste à ruiner ses adversaires par des opérations immobilières. Il symbolise les aspects apparents et spectac",
+  "status": "WD"
+ },
+ {
+  "card": "Alexeï Pajitnov crée Tetris",
+  "year": 1984,
+  "wiki": "Tetris",
+  "article": "Tetris",
+  "wikidata": {
+   "publication": [
+    [
+     1985,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Tetris est un jeu vidéo de puzzle en mouvement conçu par l'ingénieur soviétique Alekseï Pajitnov à partir de 1984 sur Elektronika 60",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Sortie de Pac-Man",
+  "year": 1980,
+  "wiki": "Pac-Man",
+  "article": "Pac-Man",
+  "wikidata": {
+   "publication": [
+    [
+     1980,
+     11
+    ],
+    [
+     1980,
+     10
+    ],
+    [
+     1993,
+     9
+    ],
+    [
+     1988,
+     10
+    ],
+    [
+     1984,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Pac-Man (パックマン, Pakkuman) (initialement intitulé Puckman) est un jeu vidéo créé par Tōru Iwatani pour l’entreprise japonaise bandai Namco, sorti au Japon le 22 mai 1980",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de Super Mario Bros.",
+  "year": 1985,
+  "wiki": "Super Mario Bros.",
+  "article": "Super Mario Bros.",
+  "wikidata": {
+   "publication": [
+    [
+     1985,
+     11
+    ],
+    [
+     1985,
+     9
+    ],
+    [
+     1986,
+     11
+    ],
+    [
+     1986,
+     9
+    ],
+    [
+     1987,
+     11
+    ],
+    [
+     1987,
+     9
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     1999,
+     10
+    ],
+    [
+     2000,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2006,
+     11
+    ],
+    [
+     2006,
+     11
+    ],
+    [
+     2007,
+     11
+    ],
+    [
+     2011,
+     11
+    ],
+    [
+     2011,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2018,
+     11
+    ],
+    [
+     1985,
+     10
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Il est sorti sur Famicom au Japon en 1985 puis sur Nintendo Entertainment System en Amérique du Nord la même année et en 1987 en Europe",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de Pokémon Rouge et Vert",
+  "year": 1996,
+  "wiki": "Pokémon Rouge et Vert",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Première version publique de Minecraft",
+  "year": 2009,
+  "wiki": "Minecraft",
+  "article": "Minecraft",
+  "wikidata": {
+   "publication": [
+    [
+     2009,
+     11
+    ],
+    [
+     2011,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Minecraft est un jeu vidéo de type aventure « bac à sable » développé par le Suédois Markus Persson, alias Notch, puis par la société Mojang Studios. Il s'agit d'un univers composé de voxels et généré de façon procédural",
+  "status": "WD"
+ },
+ {
+  "card": "Sortie de Fortnite",
+  "year": 2017,
+  "wiki": "Fortnite",
+  "article": "Fortnite",
+  "wikidata": {
+   "publication": [
+    [
+     2017,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Fortnite est un jeu en ligne développé par Epic Games sous la forme de différents modes de jeu qui partagent le même gameplay général et le même moteur de jeu. Les deux premiers modes de jeu sont Fortnite : Sauver le mon",
+  "status": "WD"
+ },
+ {
+  "card": "Création du Coca-Cola",
+  "year": 1886,
+  "wiki": "Coca-Cola",
+  "article": "Coca-Cola",
+  "wikidata": {
+   "création": [
+    [
+     1886,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Cette marque a été déposée en 1886",
+  "status": "OK"
+ },
+ {
+  "card": "Le Nutella arrive dans les magasins",
+  "year": 1964,
+  "wiki": "Nutella",
+  "article": "Nutella",
+  "wikidata": {
+   "création": [
+    [
+     1964,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Nutella est une marque de pâte à tartiner créée le 20 avril 1964 en Italie dans la région du Piémont par la société Ferrero",
+  "status": "OK"
+ },
+ {
+  "card": "Brevet du jean à rivets de Levi Strauss",
+  "year": 1873,
+  "wiki": "Jean (pantalon)",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Mattel lance la poupée Barbie",
+  "year": 1959,
+  "wiki": "Barbie",
+  "article": "Barbie",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Barbie est un nom de famille et un prénom (diminutif de Barbara).\n\n",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier Tour de France",
+  "year": 1903,
+  "wiki": "Tour de France 1903",
+  "article": "Tour de France 1903",
+  "wikidata": {
+   "date": [
+    [
+     1903,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1903,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1903,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Tour de France 1903 est la 1re édition du Tour de France et a eu lieu en 1903, du 1er au 19 juillet",
+  "status": "OK"
+ },
+ {
+  "card": "Premiers Jeux olympiques modernes à Athènes",
+  "year": 1896,
+  "wiki": "Jeux olympiques d'été de 1896",
+  "article": "Jeux olympiques de 1896",
+  "wikidata": {
+   "début": [
+    [
+     1896,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1896,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Jeux olympiques de 1896, également nommés Jeux de la première olympiade, en Ολυμπιακοί Αγώνες / Olympiakoí Agónes, sont organisés en 1896 à Athènes en Grèce",
+  "status": "OK"
+ },
+ {
+  "card": "Première Coupe du monde de football",
+  "year": 1930,
+  "wiki": "Coupe du monde de football 1930",
+  "article": "Coupe du monde de football 1930",
+  "wikidata": {
+   "date": [
+    [
+     1930,
+     10
+    ]
+   ],
+   "début": [
+    [
+     1930,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1930,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Coupe du monde de football 1930 est la première édition de la Coupe du monde de football de la Fédération internationale de football association (FIFA)",
+  "status": "OK"
+ },
+ {
+  "card": "La France championne du monde de football à domicile",
+  "year": 1998,
+  "wiki": "Coupe du monde de football 1998",
+  "article": "Coupe du monde de football 1998",
+  "wikidata": {
+   "date": [
+    [
+     1998,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1998,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1998,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Coupe du monde de football 1998 est la seizième édition de la Coupe du monde de football et se déroule en France du 10 juin au 12 juillet 1998",
+  "status": "OK"
+ },
+ {
+  "card": "La France championne du monde de football en Russie",
+  "year": 2018,
+  "wiki": "Coupe du monde de football 2018",
+  "article": "Coupe du monde de football 2018",
+  "wikidata": {
+   "date": [
+    [
+     2018,
+     9
+    ]
+   ],
+   "début": [
+    [
+     2018,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2018,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Coupe du monde de football 2018 ou Coupe du monde de la FIFA 2018 est la 21e édition de la Coupe du monde de football, une compétition organisée par la FIFA et qui réunit les trente-deux sélections nationales masculin",
+  "status": "OK"
+ },
+ {
+  "card": "Premières 24 Heures du Mans",
+  "year": 1923,
+  "wiki": "24 Heures du Mans 1923",
+  "article": "24 Heures du Mans 1923",
+  "wikidata": {
+   "date": [
+    [
+     1923,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les 24 Heures du Mans 1923 (Grand Prix d'Endurance de 24 Heures) sont la 1re édition des 24 Heures du Mans et se déroulent les 26 et 27 mai 1923 sur le circuit de la Sarthe, sur le tracé de 17,262 km tel qu'utilisé lors ",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration du stade Roland-Garros",
+  "year": 1928,
+  "wiki": "Stade Roland-Garros",
+  "article": "Stade Roland-Garros",
+  "wikidata": {
+   "création": [
+    [
+     1928,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1928,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Le stade Roland-Garros est un stade de tennis  construit en 1927 et situé dans l’ouest de Paris au niveau de la porte d'Auteuil, en lisière du bois de Boulogne. Il accueille tous les ans les Internationaux de France de t",
+  "status": "WD"
+ },
+ {
+  "card": "Premier Super Bowl",
+  "year": 1967,
+  "wiki": "Super Bowl I",
+  "article": "Super Bowl I",
+  "wikidata": {
+   "date": [
+    [
+     1967,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le match a lieu le 15 janvier 1967 au Los Angeles Memorial Coliseum de Los Angeles dans l'État de Californie",
+  "status": "OK"
+ },
+ {
+  "card": "Usain Bolt court le 100 m en 9,58 s",
+  "year": 2009,
+  "wiki": "Championnats du monde d'athlétisme 2009",
+  "article": "Championnats du monde d'athlétisme 2009",
+  "wikidata": {
+   "date": [
+    [
+     2009,
+     9
+    ]
+   ],
+   "début": [
+    [
+     2009,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2009,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les douzièmes Championnats du monde d'athlétisme se sont déroulés du 15 au 23 août 2009 au Stade olympique de Berlin, en Allemagne",
+  "status": "OK"
+ },
+ {
+  "card": "Jeux olympiques d'été de Paris",
+  "year": 2024,
+  "wiki": "Jeux olympiques d'été de 2024",
+  "article": "Jeux olympiques d'été de 2024",
+  "wikidata": {
+   "date": [
+    [
+     2024,
+     9
+    ]
+   ],
+   "début": [
+    [
+     2024,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2024,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Jeux olympiques d'été de 2024, appelés communément Paris 2024 et officiellement Jeux de la XXXIIIe olympiade de l'ère moderne, ont lieu du 26 juillet au 11 août 2024 à Paris, en France",
+  "status": "OK"
+ },
+ {
+  "card": "Premiers Jeux olympiques d'été à Paris",
+  "year": 1900,
+  "wiki": "Jeux olympiques d'été de 1900",
+  "article": "Jeux olympiques de 1900",
+  "wikidata": {
+   "début": [
+    [
+     1900,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1900,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Jeux olympiques de 1900, officiellement nommés Jeux de la IIe olympiade, sont la deuxième édition des Jeux olympiques modernes",
+  "status": "OK"
+ },
+ {
+  "card": "Première ascension de l'Everest",
+  "year": 1953,
+  "wiki": "Première ascension de l'Everest",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Première ascension du mont Blanc",
+  "year": 1786,
+  "wiki": "Première ascension du mont Blanc",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Amundsen atteint le pôle Sud",
+  "year": 1911,
+  "wiki": "Expédition Amundsen au pôle Sud",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Christophe Colomb atteint l'Amérique",
+  "year": 1492,
+  "wiki": "Premier voyage de Christophe Colomb",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "L'expédition de Magellan achève le premier tour du monde",
+  "year": 1522,
+  "wiki": "Expédition de Magellan",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Vasco de Gama arrive en Inde par la mer",
+  "year": 1498,
+  "wiki": "Vasco de Gama",
+  "article": "Vasco de Gama",
+  "wikidata": {
+   "naissance": [
+    [
+     1469,
+     9
+    ],
+    [
+     1460,
+     9
+    ]
+   ],
+   "mort": [
+    [
+     1524,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Vasco de Gama (en portugais : Vasco da Gama) né vers 1460 ou 1469 à Sines (Portugal) et mort le 24 décembre 1524 à Cochin aux Indes orientales, est un grand navigateur portugais, considéré comme le premier Européen à att",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Premier voyage de Jacques Cartier au Canada",
+  "year": 1534,
+  "wiki": "Jacques Cartier",
+  "article": "Jacques Cartier",
+  "wikidata": {
+   "naissance": [
+    [
+     1491,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1557,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Mandaté par le roi de France François Ier, il atteint en mai 1534 le golfe du Saint-Laurent et explore les territoires alentour, auxquels il donne le nom de « Canada », tiré du mot iroquoien kanata (« village »)",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Champlain fonde Québec",
+  "year": 1608,
+  "wiki": "Québec (ville)",
+  "article": "Québec (ville)",
+  "wikidata": {
+   "création": [
+    [
+     1608,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1845,
+     9
+    ],
+    [
+     1866,
+     11
+    ],
+    [
+     2002,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Fondée en 1608 par Samuel de Champlain, Québec est une des plus anciennes villes d'Amérique du Nord",
+  "status": "OK"
+ },
+ {
+  "card": "Le Mayflower accoste en Amérique",
+  "year": 1620,
+  "wiki": "Mayflower",
+  "article": "Mayflower",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Le Mayflower /meɪˈflaʊɚ/ est un vaisseau marchand anglais devenu célèbre pour avoir transporté en 1620 d'Angleterre en Amérique du Nord un groupe de dissidents religieux, les Pilgrim fathers (« Pères pèlerins »), à la re",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Naufrage du Titanic",
+  "year": 1912,
+  "wiki": "Naufrage du Titanic",
+  "article": "Naufrage du Titanic",
+  "wikidata": {
+   "date": [
+    [
+     1912,
+     10
+    ]
+   ],
+   "début": [
+    [
+     1912,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1912,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Il se déroule dans la nuit du 14 au 15 avril 1912 dans l'océan Atlantique Nord au large de Terre-Neuve",
+  "status": "OK"
+ },
+ {
+  "card": "Prise de la Bastille",
+  "year": 1789,
+  "wiki": "Prise de la Bastille",
+  "article": "Prise de la Bastille",
+  "wikidata": {
+   "date": [
+    [
+     1789,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La prise de la Bastille, survenue le mardi 14 juillet 1789 à Paris, est l'un des événements inauguraux et emblématiques de la Révolution française",
+  "status": "OK"
+ },
+ {
+  "card": "Sacre de Napoléon Ier",
+  "year": 1804,
+  "wiki": "Sacre de Napoléon Ier",
+  "article": "Sacre de Napoléon Ier",
+  "wikidata": {
+   "date": [
+    [
+     1804,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le sacre de Napoléon Ier est la cérémonie d’intronisation et de couronnement qui suivit la proclamation de Napoléon Bonaparte comme empereur des Français sous le titre de Napoléon Ier du 18 mai 1804",
+  "status": "OK"
+ },
+ {
+  "card": "Bataille de Waterloo",
+  "year": 1815,
+  "wiki": "Bataille de Waterloo",
+  "article": "Bataille de Waterloo",
+  "wikidata": {
+   "date": [
+    [
+     1815,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La bataille de Waterloo [watɛʁlo] s'est déroulée le 18 juin 1815, en Belgique, à vingt kilomètres au sud de Bruxelles, dans l'actuelle province du Brabant wallon",
+  "status": "OK"
+ },
+ {
+  "card": "Bataille d'Austerlitz",
+  "year": 1805,
+  "wiki": "Bataille d'Austerlitz",
+  "article": "Bataille d'Austerlitz",
+  "wikidata": {
+   "date": [
+    [
+     1805,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La bataille d’Austerlitz est un affrontement décisif de la campagne d'Allemagne qui s'est déroulé le lundi 2 décembre 1805 entre Brünn et Austerlitz, dans le sud de la Moravie (alors une possession autrichienne, aujourd'",
+  "status": "OK"
+ },
+ {
+  "card": "Exécution de Louis XVI",
+  "year": 1793,
+  "wiki": "Exécution de Louis XVI",
+  "article": "Exécution de Louis XVI",
+  "wikidata": {
+   "date": [
+    [
+     1793,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'exécution de Louis XVI, en application de la condamnation à mort de l'ancien roi de France et de Navarre et ancien roi des Français prononcée par les députés de la Convention nationale à l'issue de son procès, a eu lie",
+  "status": "OK"
+ },
+ {
+  "card": "Déclaration des droits de l'homme et du citoyen",
+  "year": 1789,
+  "wiki": "Déclaration des droits de l'homme et du citoyen de 1789",
+  "article": "Déclaration des droits de l'homme et du citoyen de 1789",
+  "wikidata": {
+   "création": [
+    [
+     1790,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1789,
+     11
+    ],
+    [
+     1789,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Déclaration des droits de l'homme et du citoyen de 1789 (parfois abrégée en DDHC) est un texte fondamental de la Révolution française qui énonce un ensemble de droits naturels individuels et communs, ainsi que les con",
+  "status": "OK"
+ },
+ {
+  "card": "Abolition de l'esclavage en France",
+  "year": 1848,
+  "wiki": "Abolition de l'esclavage en France",
+  "article": "Décret d'abolition de l'esclavage du 27 avril 1848",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Le deuxième décret de l'abolition de l'esclavage en France a été signé le 27 avril 1848 par le Gouvernement provisoire de la Deuxième République",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Les Françaises obtiennent le droit de vote",
+  "year": 1944,
+  "wiki": "Droit de vote des femmes en France",
+  "article": "Droit de vote des femmes",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Le droit de vote des femmes est le produit d'une longue histoire qui s'inscrit dans l'histoire contemporaine. Dans le monde, le droit de vote des femmes s'est répandu à partir du début du XXe siècle. Le droit d'éligibili",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Armistice de la Première Guerre mondiale",
+  "year": 1918,
+  "wiki": "Armistice de 1918",
+  "article": "Armistice du 11 novembre 1918",
+  "wikidata": {
+   "date": [
+    [
+     1918,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'armistice de 1918, signé le 11 novembre 1918 à 5 h 15, met provisoirement fin aux combats de la Première Guerre mondiale (1914-1918)",
+  "status": "OK"
+ },
+ {
+  "card": "Début de la Première Guerre mondiale",
+  "year": 1914,
+  "wiki": "Première Guerre mondiale",
+  "article": "Première Guerre mondiale",
+  "wikidata": {
+   "date": [
+    [
+     1918,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1914,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1918,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1914,
+     11
+    ],
+    [
+     1914,
+     9
+    ],
+    [
+     1914,
+     9
+    ],
+    [
+     1914,
+     11
+    ],
+    [
+     1914,
+     11
+    ],
+    [
+     1914,
+     11
+    ],
+    [
+     1914,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Cette guerre s'est déroulée de 1914 à 1918",
+  "status": "OK"
+ },
+ {
+  "card": "Débarquement en Normandie",
+  "year": 1944,
+  "wiki": "Débarquement de Normandie",
+  "article": "Débarquement de Normandie",
+  "wikidata": {
+   "début": [
+    [
+     1944,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1944,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le débarquement de Normandie, également appelé débarquement en Normandie, ou encore débarquement allié en Normandie, nom de code opération Neptune, est une opération militaire amphibie et aéroportée alliée de la Seconde ",
+  "status": "OK"
+ },
+ {
+  "card": "Capitulation de l'Allemagne nazie",
+  "year": 1945,
+  "wiki": "Capitulation de l'Allemagne nazie",
+  "article": "Actes de capitulation du Troisième Reich",
+  "wikidata": {
+   "date": [
+    [
+     1945,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1945,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Fixée dans son principe lors de la conférence de Casablanca, qui eut lieu du 14 au 24 janvier 1943 au Maroc, la première capitulation a été signée à Reims le 7 mai 1945 à 2 h 41, et entre en vigueur le lendemain",
+  "status": "OK"
+ },
+ {
+  "card": "Chute du mur de Berlin",
+  "year": 1989,
+  "wiki": "Chute du mur de Berlin",
+  "article": "Chute du mur de Berlin",
+  "wikidata": {
+   "date": [
+    [
+     1989,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La chute du mur de Berlin ou simplement chute du Mur a lieu dans la nuit du 9 novembre 1989 lorsque des Berlinois de l'Est, avertis par les médias ouest-allemands (de la République fédérale d'Allemagne ou RFA) de la déci",
+  "status": "OK"
+ },
+ {
+  "card": "Construction du mur de Berlin",
+  "year": 1961,
+  "wiki": "Mur de Berlin",
+  "article": "Mur de Berlin",
+  "wikidata": {
+   "création": [
+    [
+     1961,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1961,
+     11
+    ],
+    [
+     1989,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le mur de Berlin (en allemand : Berliner Mauer, /bɛʁˌliːnɐ ˈmaʊ̯ɐ/ ), parfois appelé « mur de la honte » (Schandmauer) par les Ouest-Allemands et officiellement appelé par le gouvernement est-allemand « rempart antifasci",
+  "status": "OK"
+ },
+ {
+  "card": "Révolution d'Octobre en Russie",
+  "year": 1917,
+  "wiki": "Révolution d'Octobre",
+  "article": "Révolution d'Octobre",
+  "wikidata": {
+   "date": [
+    [
+     1917,
+     11
+    ],
+    [
+     1917,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1917,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1917,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La révolution d'Octobre (en russe : Октябрьская революция, Oktiabrskaïa revolioutsia), aussi connue sous le nom de révolution bolchevique, parfois sous le nom d'octobre rouge (en russe : Красный Октябрь, Krasnyi Oktiabr)",
+  "status": "OK"
+ },
+ {
+  "card": "Krach boursier de Wall Street",
+  "year": 1929,
+  "wiki": "Krach de 1929",
+  "article": "Krach de 1929",
+  "wikidata": {
+   "date": [
+    [
+     1929,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1929,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1929,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le krach de 1929 est une crise boursière qui s'est déroulée à la Bourse de New York entre le jeudi 24 octobre et le mardi 29 octobre 1929 : en quelques jours, l'indice principal qui avait augmenté de plus de 500 % depuis",
+  "status": "OK"
+ },
+ {
+  "card": "Déclaration d'indépendance des États-Unis",
+  "year": 1776,
+  "wiki": "Déclaration d'indépendance des États-Unis",
+  "article": "Déclaration d'indépendance des États-Unis",
+  "wikidata": {
+   "date": [
+    [
+     1776,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     1776,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Déclaration unanime des treize États unis d'Amérique, généralement appelée Déclaration d'indépendance des États-Unis (en anglais : The unanimous declaration of the thirteen united States of America et United States De",
+  "status": "OK"
+ },
+ {
+  "card": "Nelson Mandela élu président de l'Afrique du Sud",
+  "year": 1994,
+  "wiki": "Élections générales sud-africaines de 1994",
+  "article": "Élections générales sud-africaines de 1994",
+  "wikidata": {
+   "date": [
+    [
+     1994,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1994,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1994,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les élections générales sud-africaines du 26 au 29 avril 1994 sont les premières élections non raciales au suffrage universel de l'histoire du pays",
+  "status": "OK"
+ },
+ {
+  "card": "Libération de Nelson Mandela",
+  "year": 1990,
+  "wiki": "Nelson Mandela",
+  "article": "Nelson Mandela",
+  "wikidata": {
+   "naissance": [
+    [
+     1918,
+     11
+    ],
+    [
+     1918,
+     9
+    ]
+   ],
+   "mort": [
+    [
+     2013,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Après vingt-sept années d'emprisonnement dans des conditions souvent difficiles et après avoir refusé d'être libéré pour rester en cohérence avec ses convictions, Mandela est relâché le 11 février 1990",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Signature du traité de Rome",
+  "year": 1957,
+  "wiki": "Traité de Rome (1957)",
+  "article": "Traité de Rome",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Le traité de Rome peut faire référence à six traités qui ont été signés à Rome :\n\ntraité de Rome (1924), signé entre l'Italie et la Yougoslavie sur le statut de la ville de Fiume,\ntraité de Rome (1950) portant Convention",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Les billets et pièces en euros entrent en circulation",
+  "year": 2002,
+  "wiki": "Euro",
+  "article": "Euro",
+  "wikidata": {
+   "création": [
+    [
+     1999,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1999,
+     11
+    ],
+    [
+     2002,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "En usage sous sa forme scripturale le 1er janvier 1999, il est mis en circulation le 1er janvier 2002 à 0 h sous sa forme fiduciaire",
+  "status": "OK"
+ },
+ {
+  "card": "Attentats du 11 septembre",
+  "year": 2001,
+  "wiki": "Attentats du 11 septembre 2001",
+  "article": "Attentats du 11 septembre 2001",
+  "wikidata": {
+   "date": [
+    [
+     2001,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les attentats du 11 septembre 2001 (communément appelés le 11-Septembre, 9/11 en anglais américain) sont quatre tueries de masse terroristes islamistes (par attentats-suicides) perpétrées le même jour aux États-Unis et p",
+  "status": "OK"
+ },
+ {
+  "card": "Barack Obama élu président des États-Unis",
+  "year": 2008,
+  "wiki": "Élection présidentielle américaine de 2008",
+  "article": "Élection présidentielle américaine de 2008",
+  "wikidata": {
+   "date": [
+    [
+     2008,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'élection présidentielle américaine de 2008, prenant place le 4 novembre 2008, est la 56e élection présidentielle américaine à déterminer le président et le vice-président des États-Unis",
+  "status": "OK"
+ },
+ {
+  "card": "Assassinat de John F. Kennedy",
+  "year": 1963,
+  "wiki": "Assassinat de John F. Kennedy",
+  "article": "Assassinat de John F. Kennedy",
+  "wikidata": {
+   "date": [
+    [
+     1963,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Kennedy, trente-cinquième président des États-Unis, a lieu le vendredi 22 novembre 1963 à Dallas (Texas) à 12 h 30 CST, soit 18 h 30 UTC",
+  "status": "OK"
+ },
+ {
+  "card": "Mai 68",
+  "year": 1968,
+  "wiki": "Mai 68",
+  "article": "Mai 68",
+  "wikidata": {
+   "date": [
+    [
+     1968,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1968,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1968,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les événements de mai-juin 1968, ou plus brièvement Mai 68, sont une période durant laquelle se déroulent, en France, des grandes manifestations ainsi qu'une grève générale et sauvage, accompagnée d'occupations d'usines ",
+  "status": "OK"
+ },
+ {
+  "card": "Adoption de la Constitution de la Ve République",
+  "year": 1958,
+  "wiki": "Constitution française du 4 octobre 1958",
+  "article": "Constitution française du 4 octobre 1958",
+  "wikidata": {
+   "début": [
+    [
+     1958,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Constitution française du 4 octobre 1958 est la constitution de la Cinquième République, régime actuellement en vigueur en France",
+  "status": "OK"
+ },
+ {
+  "card": "Loi de séparation des Églises et de l'État",
+  "year": 1905,
+  "wiki": "Loi de séparation des Églises et de l'État",
+  "article": "Loi du 9 décembre 1905 concernant la séparation des Églises et de l'État",
+  "wikidata": {
+   "date": [
+    [
+     1905,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État est une loi française codifiant la laïcité",
+  "status": "OK"
+ },
+ {
+  "card": "L'école devient obligatoire et laïque (loi Ferry)",
+  "year": 1882,
+  "wiki": "Lois Jules Ferry",
+  "article": "Lois Jules Ferry",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Les lois Jules Ferry sont deux lois sur l'école primaire en France votées en 1881-1882 sous la Troisième République, qui rendent l'école gratuite (loi du 16 juin 1881), l'instruction primaire obligatoire et participent à",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Abolition de la peine de mort en France",
+  "year": 1981,
+  "wiki": "Abolition de la peine de mort en France",
+  "article": "Abolition de la peine de mort en France",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "L'abolition de la peine de mort en France a lieu le 9 octobre 1981 après de nombreux débats",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Édit de Nantes",
+  "year": 1598,
+  "wiki": "Édit de Nantes",
+  "article": "Édit de Nantes",
+  "wikidata": {
+   "création": [
+    [
+     1598,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     1598,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'édit de Nantes est un édit de tolérance promulgué en avril 1598 par le roi de France Henri IV, pour mettre fin aux guerres de Religion qui ravageaient le royaume de France depuis 1562, et particulièrement à la huitième",
+  "status": "OK"
+ },
+ {
+  "card": "Révocation de l'édit de Nantes",
+  "year": 1685,
+  "wiki": "Édit de Fontainebleau (1685)",
+  "article": "Révocation de l'édit de Nantes",
+  "wikidata": {
+   "date": [
+    [
+     1685,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La révocation de l'édit de Nantes a été actée par Louis XIV en signant l'édit de Fontainebleau le 18 octobre 1685",
+  "status": "OK"
+ },
+ {
+  "card": "Massacre de la Saint-Barthélemy",
+  "year": 1572,
+  "wiki": "Massacre de la Saint-Barthélemy",
+  "article": "Massacre de la Saint-Barthélemy",
+  "wikidata": {
+   "date": [
+    [
+     1572,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1572,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1572,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le massacre de la Saint-Barthélemy est une tuerie de masse ayant débuté le 24 août 1572, jour de la Saint-Barthélemy, et durant laquelle plusieurs milliers de protestants (huguenots) furent massacrés par des catholiques ",
+  "status": "OK"
+ },
+ {
+  "card": "Jeanne d'Arc brûlée à Rouen",
+  "year": 1431,
+  "wiki": "Procès de Jeanne d'Arc",
+  "article": "Jeanne d'Arc",
+  "wikidata": {
+   "naissance": [
+    [
+     1412,
+     9
+    ],
+    [
+     1412,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1431,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1431,
+     11
+    ],
+    [
+     1431,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Jeanne d'Arc, dite « la Pucelle », née vers 1412 à Domrémy, village partagé entre le duché de Bar au sud et la châtellenie de Vaucouleurs au nord (où elle vivait), et morte sur le bûcher le 30 mai 1431 à Rouen, capitale ",
+  "status": "OK"
+ },
+ {
+  "card": "Bataille de Marignan",
+  "year": 1515,
+  "wiki": "Bataille de Marignan",
+  "article": "Bataille de Marignan",
+  "wikidata": {
+   "début": [
+    [
+     1515,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1515,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La bataille de Marignan (Marignano en Italie, aujourd'hui Melegnano, ville à 16 km au sud-est de Milan) eut lieu les 13 et 14 septembre 1515 et opposa le roi de France François Ier et ses alliés vénitiens aux mercenaires",
+  "status": "OK"
+ },
+ {
+  "card": "Prise de Constantinople par les Ottomans",
+  "year": 1453,
+  "wiki": "Chute de Constantinople",
+  "article": "Chute de Constantinople",
+  "wikidata": {
+   "début": [
+    [
+     1453,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1453,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "« La conquête de Constantinople (actuellement Istanbul) ») est un siège historique qui aboutit, le 29 mai 1453, à la prise de la ville par les troupes ottomanes conduites par Mehmed II",
+  "status": "OK"
+ },
+ {
+  "card": "Bataille de Hastings",
+  "year": 1066,
+  "wiki": "Bataille d'Hastings",
+  "article": "Bataille d'Hastings",
+  "wikidata": {
+   "date": [
+    [
+     1066,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La bataille d'Hastings se déroule au cours de la conquête normande de l'Angleterre le 14 octobre 1066 à une dizaine de kilomètres au nord-ouest de la ville d'Hastings, dans le Sussex de l'Est",
+  "status": "OK"
+ },
+ {
+  "card": "Couronnement de Charlemagne empereur",
+  "year": 800,
+  "wiki": "Charlemagne",
+  "article": "Charlemagne",
+  "wikidata": {
+   "naissance": [
+    [
+     748,
+     11
+    ],
+    [
+     742,
+     9
+    ],
+    [
+     747,
+     9
+    ],
+    [
+     742,
+     11
+    ],
+    [
+     742,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     814,
+     11
+    ],
+    [
+     814,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Fils de Pépin le Bref et de Bertrade de Laon, il est roi des Francs à partir de 768, devient par conquête roi des Lombards en 774 et est couronné empereur à Rome par le pape Léon III le 24 ou 25 décembre 800, relevant un",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Chute de l'Empire romain d'Occident",
+  "year": 476,
+  "wiki": "Chute de l'Empire romain d'Occident",
+  "article": "Déclin de l'Empire romain d'Occident",
+  "wikidata": {
+   "date": [
+    [
+     476,
+     9
+    ]
+   ],
+   "fin": [
+    [
+     476,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le 4 septembre 476, date de l'abdication de Romulus Augustule, dernier  empereur de l'Empire romain d'Occident, est en général retenu comme marquant la fin de l'Antiquité",
+  "status": "OK"
+ },
+ {
+  "card": "Le Vésuve ensevelit Pompéi",
+  "year": 79,
+  "wiki": "Éruption du Vésuve en 79",
+  "article": "Éruption du Vésuve en 79",
+  "wikidata": {
+   "date": [
+    [
+     79,
+     11
+    ],
+    [
+     79,
+     11
+    ],
+    [
+     79,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L’éruption du Vésuve en 79 apr",
+  "status": "OK"
+ },
+ {
+  "card": "Assassinat de Jules César",
+  "year": -44,
+  "wiki": "Assassinat de Jules César",
+  "article": "Assassinat de Jules César",
+  "wikidata": {
+   "date": [
+    [
+     -44,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'événement eut lieu à la curie de Pompée attenante au théâtre de Pompée durant les ides de mars (le 15 mars) de l'an 44 av",
+  "status": "OK"
+ },
+ {
+  "card": "Bataille d'Alésia",
+  "year": -52,
+  "wiki": "Siège d'Alésia",
+  "article": "Siège d'Alésia",
+  "wikidata": {
+   "début": [
+    [
+     -52,
+     10
+    ]
+   ],
+   "fin": [
+    [
+     -52,
+     10
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle se déroule entre les mois de juillet et de septembre 52 av",
+  "status": "OK"
+ },
+ {
+  "card": "Mort d'Alexandre le Grand",
+  "year": -323,
+  "wiki": "Alexandre le Grand",
+  "article": "Alexandre le Grand",
+  "wikidata": {
+   "naissance": [
+    [
+     -356,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     -323,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "à Pella et mort le 11 juin 323 av",
+  "status": "OK"
+ },
+ {
+  "card": "Bataille de Marathon",
+  "year": -490,
+  "wiki": "Bataille de Marathon",
+  "article": "Bataille de Marathon",
+  "wikidata": {
+   "date": [
+    [
+     -490,
+     11
+    ],
+    [
+     -490,
+     11
+    ],
+    [
+     -490,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La bataille de Marathon (en grec ancien : Μάχη τοῦ Μαραθῶνος) est un épisode de la première guerre médique en 490 av",
+  "status": "OK"
+ },
+ {
+  "card": "Signature de la Magna Carta",
+  "year": 1215,
+  "wiki": "Magna Carta",
+  "article": "Magna Carta",
+  "wikidata": {
+   "création": [
+    [
+     1215,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'expression latine Magna Carta, traduite en français par « Grande Charte » (ou, en précisant, « Grande Charte d'Angleterre »), désigne la charte obtenue par la noblesse anglaise (les « barons ») du roi Jean sans Terre l",
+  "status": "OK"
+ },
+ {
+  "card": "Les croisés prennent Jérusalem",
+  "year": 1099,
+  "wiki": "Siège de Jérusalem (1099)",
+  "article": "Siège de Jérusalem (1099)",
+  "wikidata": {
+   "début": [
+    [
+     1099,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1099,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le siège de Jérusalem durant la première croisade dure du 7 juin au 15 juillet 1099",
+  "status": "OK"
+ },
+ {
+  "card": "Louis XIV devient roi",
+  "year": 1643,
+  "wiki": "Louis XIV",
+  "article": "Louis XIV",
+  "wikidata": {
+   "naissance": [
+    [
+     1638,
+     11
+    ],
+    [
+     1638,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1715,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1649,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Son règne s'étend du 14 mai 1643 — sous la régence de sa mère Anne d'Autriche jusqu'au 7 septembre 1651 — à sa mort",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Mort de Louis XIV",
+  "year": 1715,
+  "wiki": "Mort et funérailles de Louis XIV",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "La cour s'installe au château de Versailles",
+  "year": 1682,
+  "wiki": "Château de Versailles",
+  "article": "Château de Versailles",
+  "wikidata": {
+   "création": [
+    [
+     1661,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Le roi, la cour et le gouvernement y résidèrent de façon permanente du 6 mai 1682 au 6 octobre 1789, à l'exception des années de la Régence de 1715 à 1723",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Grand incendie de Londres",
+  "year": 1666,
+  "wiki": "Grand incendie de Londres",
+  "article": "Grand incendie de Londres",
+  "wikidata": {
+   "début": [
+    [
+     1666,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1666,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le grand incendie de Londres est un violent incendie qui ravage le centre de la ville de Londres du dimanche 2 septembre au mercredi 5 septembre 1666",
+  "status": "OK"
+ },
+ {
+  "card": "Tremblement de terre de Lisbonne",
+  "year": 1755,
+  "wiki": "Séisme de 1755 à Lisbonne",
+  "article": "Séisme de 1755 à Lisbonne",
+  "wikidata": {
+   "date": [
+    [
+     1755,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le séisme de Lisbonne, survenu le 1er novembre 1755, est une catastrophe qui fit entre 50 000 et 70 000 morts parmi les 275 000 habitants de Lisbonne",
+  "status": "OK"
+ },
+ {
+  "card": "La Commune de Paris",
+  "year": 1871,
+  "wiki": "Commune de Paris",
+  "article": "Commune de Paris",
+  "wikidata": {
+   "création": [
+    [
+     1871,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1871,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1871,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Commune de Paris est la plus importante des communes insurrectionnelles de France en 1870-1871, qui dura 72 jours, du 18 mars 1871 à la « Semaine sanglante » du 21 au 28 mai 1871",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration du canal de Suez",
+  "year": 1869,
+  "wiki": "Canal de Suez",
+  "article": "Canal de Suez",
+  "wikidata": {
+   "ouverture": [
+    [
+     1869,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1859,
+     11
+    ],
+    [
+     2021,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Percé entre 1859 et 1869, grâce à une levée de fonds géante à la Bourse de Paris, sous la direction du diplomate retraité français Ferdinand de Lesseps, il permet aux navires d'aller d'Europe en Asie sans devoir contourn",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture du canal de Panama",
+  "year": 1914,
+  "wiki": "Canal de Panama",
+  "article": "Canal de Panama",
+  "wikidata": {
+   "ouverture": [
+    [
+     1914,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Après l'échec de cette tentative, le travail fut terminé par les États-Unis sous la direction de George Washington Goethals, et le canal ouvrit le 15 août 1914",
+  "status": "OK"
+ },
+ {
+  "card": "Abolition de l'esclavage aux États-Unis",
+  "year": 1865,
+  "wiki": "Treizième amendement de la Constitution des États-Unis",
+  "article": "Treizième amendement de la Constitution des États-Unis",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Il obtint la majorité des deux tiers requise pour amender la Constitution et fut adopté par le Congrès le 31 janvier 1865, puis ratifié par les États le 6 décembre 1865",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Indépendance de l'Inde",
+  "year": 1947,
+  "wiki": "Indépendance de l'Inde",
+  "article": "Mouvement pour l'indépendance de l'Inde",
+  "wikidata": {
+   "début": [
+    [
+     1757,
+     9
+    ]
+   ],
+   "fin": [
+    [
+     1947,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "Le mouvement pour l'indépendance de l'Inde recouvre un ensemble complexe englobant diverses campagnes nationales et régionales, des troubles et des tentatives inspirés d'une philosophie à la fois non violente et militant",
+  "status": "WD"
+ },
+ {
+  "card": "Création de l'ONU",
+  "year": 1945,
+  "wiki": "Organisation des Nations unies",
+  "article": "Organisation des Nations unies",
+  "wikidata": {
+   "création": [
+    [
+     1945,
+     9
+    ],
+    [
+     1945,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle a été instituée le 24 octobre 1945 par la ratification de la Charte des Nations unies signée le 26 juin 1945 par les représentants de 51 États",
+  "status": "OK"
+ },
+ {
+  "card": "Proclamation de l'État d'Israël",
+  "year": 1948,
+  "wiki": "Déclaration d'indépendance de l'État d'Israël",
+  "article": "Déclaration d'indépendance de l'État d'Israël",
+  "wikidata": {
+   "date": [
+    [
+     1948,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     1948,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La déclaration d'indépendance de l'État d'Israël, officiellement la Déclaration d'établissement de l'État d'Israël (en hébreu : הכרזה על הקמת מדינת ישראל), a lieu le 14 mai 1948, dernier jour du mandat britannique sur la",
+  "status": "OK"
+ },
+ {
+  "card": "Proclamation de la République populaire de Chine",
+  "year": 1949,
+  "wiki": "Proclamation de la république populaire de Chine",
+  "article": "Proclamation de la République populaire de Chine",
+  "wikidata": {
+   "date": [
+    [
+     1949,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La naissance de la République populaire de Chine est proclamée par Mao Zedong, président du Parti communiste chinois (PCC), le 1er octobre 1949 sur la place Tian'anmen à Pékin",
+  "status": "OK"
+ },
+ {
+  "card": "Catastrophe nucléaire de Tchernobyl",
+  "year": 1986,
+  "wiki": "Catastrophe nucléaire de Tchernobyl",
+  "article": "Catastrophe nucléaire de Tchernobyl",
+  "wikidata": {
+   "date": [
+    [
+     1986,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La catastrophe nucléaire de Tchernobyl (/tʃɛʁnɔbil/) est un accident nucléaire majeur survenu le samedi 26 avril 1986 à 1 h 23 min 45 s dans le réacteur no 4 de la centrale nucléaire V",
+  "status": "OK"
+ },
+ {
+  "card": "Catastrophe nucléaire de Fukushima",
+  "year": 2011,
+  "wiki": "Accident nucléaire de Fukushima",
+  "article": "Accident nucléaire de Fukushima",
+  "wikidata": {
+   "date": [
+    [
+     2011,
+     11
+    ]
+   ],
+   "début": [
+    [
+     2011,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'accident nucléaire de Fukushima, aussi appelé catastrophe nucléaire de Fukushima, est un accident industriel majeur survenu au Japon à la suite du tsunami du 11 mars 2011",
+  "status": "OK"
+ },
+ {
+  "card": "L'OMS déclare la pandémie de Covid-19",
+  "year": 2020,
+  "wiki": "Pandémie de Covid-19",
+  "article": "Pandémie de Covid-19",
+  "wikidata": {
+   "début": [
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ]
+   ],
+   "début/qualif": [
+    [
+     2020,
+     11
+    ],
+    [
+     2020,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle entraîne de très nombreuses mesures de protection dans l'ensemble des pays du monde et marque universellement le début des années 2020",
+  "status": "OK"
+ },
+ {
+  "card": "Incendie de Notre-Dame de Paris",
+  "year": 2019,
+  "wiki": "Incendie de Notre-Dame de Paris",
+  "article": "Incendie de Notre-Dame de Paris",
+  "wikidata": {
+   "date": [
+    [
+     2019,
+     11
+    ]
+   ],
+   "début": [
+    [
+     2019,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2019,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'incendie de Notre-Dame de Paris est un incendie majeur survenu à la cathédrale Notre-Dame de Paris, les 15 et 16 avril 2019, pendant près de quinze heures",
+  "status": "OK"
+ },
+ {
+  "card": "Le Royaume-Uni quitte l'Union européenne",
+  "year": 2020,
+  "wiki": "Retrait du Royaume-Uni de l'Union européenne",
+  "article": "Brexit",
+  "wikidata": {
+   "date": [
+    [
+     2020,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Négocié à partir du référendum britannique du 23 juin 2016 par lequel 51,89 % des électeurs se prononcent en faveur de ce processus, il prend effet le 31 janvier 2020",
+  "status": "OK"
+ },
+ {
+  "card": "Accords d'Évian",
+  "year": 1962,
+  "wiki": "Accords d'Évian",
+  "article": "Accords d'Évian",
+  "wikidata": {
+   "date": [
+    [
+     1962,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Ces accords, secrètement négociés les semaines précédentes aux Rousses, près de la frontière suisse, sont signés le 18 mars 1962 à Évian-les-Bains et se traduisent par un cessez-le-feu applicable sur tout le territoire a",
+  "status": "OK"
+ },
+ {
+  "card": "Howard Carter découvre le tombeau de Toutânkhamon",
+  "year": 1922,
+  "wiki": "KV62",
+  "article": "Tombeau de Toutânkhamon",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1922,
+     11
+    ],
+    [
+     1922,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le tombeau de Toutânkhamon (KV62) est un hypogée découvert le 4 novembre 1922 dans la vallée des Rois sur la rive ouest du Nil face à Louxor par Howard Carter, égyptologue britannique qui avait été chargé d'effectuer ces",
+  "status": "OK"
+ },
+ {
+  "card": "Découverte de la pierre de Rosette",
+  "year": 1799,
+  "wiki": "Pierre de Rosette",
+  "article": "Pierre de Rosette",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1799,
+     11
+    ]
+   ],
+   "création": [
+    [
+     -196,
+     9
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1801,
+     9
+    ],
+    [
+     2022,
+     9
+    ],
+    [
+     2023,
+     10
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Découverte en 1799 près de la ville de Rosette (Rachid en arabe) par un officier de l'expédition conduite en Égypte par Napoléon Bonaparte, la pierre de Rosette se trouve aujourd'hui au British Museum à Londres",
+  "status": "OK"
+ },
+ {
+  "card": "Champollion déchiffre les hiéroglyphes",
+  "year": 1822,
+  "wiki": "Jean-François Champollion",
+  "article": "Jean-François Champollion",
+  "wikidata": {
+   "naissance": [
+    [
+     1790,
+     11
+    ],
+    [
+     1790,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1832,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1821,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Jean-François Champollion dit Champollion le Jeune, né le 23 décembre 1790 à Figeac (Lot) et mort le 4 mars 1832 à Paris, est un linguiste, historien et égyptologue français, principalement reconnu pour avoir déchiffré l",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Découverte de la grotte de Lascaux",
+  "year": 1940,
+  "wiki": "Grotte de Lascaux",
+  "article": "Grotte de Lascaux",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1940,
+     11
+    ],
+    [
+     -16000,
+     6
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Redécouverte en 1940 et ouverte au public en 1948, la grotte de Lascaux a subi un certain nombre de dégradations, en particulier l'apparition de champignons due au changement des conditions climatiques régnant à l'intéri",
+  "status": "OK"
+ },
+ {
+  "card": "Découverte de la grotte Chauvet",
+  "year": 1994,
+  "wiki": "Grotte Chauvet",
+  "article": "Grotte Chauvet",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1994,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Découverte en 1994, elle a d'abord été nommée grotte ornée de la Combe d'Arc (du nom du lieu-dit où elle se trouve) mais porte aujourd'hui le nom d'un de ses inventeurs Jean-Marie Chauvet",
+  "status": "OK"
+ },
+ {
+  "card": "Découverte de Lucy, l'australopithèque",
+  "year": 1974,
+  "wiki": "Lucy (australopithèque)",
+  "article": "Lucy (australopithèque)",
+  "wikidata": {
+   "découverte/invention": [
+    [
+     1974,
+     11
+    ]
+   ],
+   "naissance": [
+    [
+     -3200000,
+     4
+    ]
+   ],
+   "mort": [
+    [
+     -3200000,
+     4
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Ce spécimen appartenant à la lignée humaine a été découvert en 1974 sur le site de Hadar, en Éthiopie, par une équipe de recherche internationale",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de la tour Eiffel",
+  "year": 1889,
+  "wiki": "Tour Eiffel",
+  "article": "Tour Eiffel",
+  "wikidata": {
+   "création": [
+    [
+     1887,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1889,
+     11
+    ],
+    [
+     1889,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Construite en deux ans par Gustave Eiffel et ses collaborateurs pour l'Exposition universelle de Paris de 1889, célébrant le centenaire de la Révolution française, et initialement nommée « tour de 300 mètres », elle est ",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de la statue de la Liberté",
+  "year": 1886,
+  "wiki": "Statue de la Liberté",
+  "article": "Statue de la Liberté",
+  "wikidata": {
+   "création": [
+    [
+     1886,
+     9
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1885,
+     10
+    ],
+    [
+     1886,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'inauguration a lieu le 28 octobre 1886 en présence du président des États-Unis, Grover Cleveland, pour commémorer, avec dix ans de retard, le centenaire de la Déclaration d'indépendance américaine",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de l'Arc de triomphe de l'Étoile",
+  "year": 1836,
+  "wiki": "Arc de triomphe de l'Étoile",
+  "article": "Arc de triomphe de l'Étoile",
+  "wikidata": {
+   "création": [
+    [
+     1836,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1836,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1806,
+     9
+    ],
+    [
+     1806,
+     11
+    ],
+    [
+     1920,
+     11
+    ],
+    [
+     1836,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Sa construction, décidée par l'empereur Napoléon Ier, débute en 1806 et s'achève en 1836 sous le règne de Louis-Philippe",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de la pyramide du Louvre",
+  "year": 1989,
+  "wiki": "Pyramide du Louvre",
+  "article": "Pyramide du Louvre",
+  "wikidata": {
+   "création": [
+    [
+     1981,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1989,
+     9
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1985,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle a été inaugurée une première fois par le président de la République François Mitterrand le 4 mars 1988, et une seconde fois le 29 mars 1989",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture du Centre Pompidou",
+  "year": 1977,
+  "wiki": "Centre Pompidou",
+  "article": "Centre national d'art et de culture Georges-Pompidou",
+  "wikidata": {
+   "création": [
+    [
+     1977,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1977,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Finalement inauguré le 31 janvier 1977, le centre Pompidou conserve l'une des deux plus importantes collections d'art moderne et contemporain au monde, et la première d'Europe avec 113 675 œuvres de six mille artistes au",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de l'opéra Garnier",
+  "year": 1875,
+  "wiki": "Opéra Garnier",
+  "article": "Opéra Garnier",
+  "wikidata": {
+   "création": [
+    [
+     1861,
+     11
+    ],
+    [
+     1862,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1875,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1896,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le bâtiment est inauguré le 5 janvier 1875 par le président de la République Mac Mahon sous la IIIe République",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de l'Empire State Building",
+  "year": 1931,
+  "wiki": "Empire State Building",
+  "article": "Empire State Building",
+  "wikidata": {
+   "création": [
+    [
+     1931,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1931,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1930,
+     11
+    ],
+    [
+     1930,
+     11
+    ],
+    [
+     1931,
+     11
+    ],
+    [
+     1945,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Inauguré le 1er mai 1931, il mesure 381 mètres (443,2 avec l’antenne) et compte 102 étages",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture du Golden Gate Bridge",
+  "year": 1937,
+  "wiki": "Golden Gate Bridge",
+  "article": "Pont du Golden Gate",
+  "wikidata": {
+   "création": [
+    [
+     1937,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1937,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1933,
+     11
+    ],
+    [
+     2012,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Financée par la Work Projects Administration, sa construction, qui se heurte à de nombreuses difficultés, débute en 1933 et s’étale sur une durée de quatre ans, pour s'achever en 1937",
+  "status": "OK"
+ },
+ {
+  "card": "Inauguration de l'opéra de Sydney",
+  "year": 1973,
+  "wiki": "Opéra de Sydney",
+  "article": "Opéra de Sydney",
+  "wikidata": {
+   "création": [
+    [
+     1973,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     1973,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1959,
+     9
+    ],
+    [
+     1973,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": false,
+  "intro_phrase": "L'opéra de Sydney (en anglais : Sydney Opera House), à Sydney (Nouvelle-Galles du Sud, Australie), est l'un des plus célèbres bâtiments du XXe siècle et un haut lieu de représentation des arts notamment lyriques. Son arc",
+  "status": "WD"
+ },
+ {
+  "card": "Inauguration de la Burj Khalifa",
+  "year": 2010,
+  "wiki": "Burj Khalifa",
+  "article": "Burj Khalifa",
+  "wikidata": {
+   "création": [
+    [
+     2004,
+     9
+    ]
+   ],
+   "ouverture": [
+    [
+     2010,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2004,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'inauguration et l'ouverture partielle ont eu lieu le 4 janvier 2010",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture d'Euro Disney",
+  "year": 1992,
+  "wiki": "Disneyland Paris",
+  "article": "Disneyland Paris",
+  "wikidata": {
+   "création": [
+    [
+     1992,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1992,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le complexe touristique, ouvert en 1992, comprend deux parcs à thèmes : le parc Disneyland et Disney Adventure World, ainsi que sept hôtels, tandis que le complexe urbain intensifie le tissu du secteur IV de Marne-la-Val",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture du premier Disneyland en Californie",
+  "year": 1955,
+  "wiki": "Disneyland",
+  "article": "Disneyland",
+  "wikidata": {
+   "création": [
+    [
+     1955,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1955,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2015,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Il est le seul « royaume enchanté » conçu et vu par Walt Disney et a été inauguré le 17 juillet 1955",
+  "status": "OK"
+ },
+ {
+  "card": "Le Louvre ouvre ses portes au public",
+  "year": 1793,
+  "wiki": "Musée du Louvre",
+  "article": "Musée du Louvre",
+  "wikidata": {
+   "création": [
+    [
+     1793,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1793,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2017,
+     9
+    ],
+    [
+     2019,
+     9
+    ],
+    [
+     2021,
+     9
+    ],
+    [
+     2018,
+     9
+    ],
+    [
+     2025,
+     11
+    ],
+    [
+     2025,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Révolution accomplit ce dessein en inaugurant le musée en août 1793, à l'occasion de l'anniversaire de la chute de la monarchie",
+  "status": "OK"
+ },
+ {
+  "card": "Victor Hugo publie Les Misérables",
+  "year": 1862,
+  "wiki": "Les Misérables",
+  "article": "Les Misérables",
+  "wikidata": {
+   "création": [
+    [
+     1900,
+     7
+    ]
+   ],
+   "création/qualif": [
+    [
+     1845,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1862,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Misérables est un roman de Victor Hugo publié en 1862, l’un des plus vastes et des plus notables de la littérature du XIXe siècle",
+  "status": "OK"
+ },
+ {
+  "card": "Victor Hugo publie Notre-Dame de Paris",
+  "year": 1831,
+  "wiki": "Notre-Dame de Paris (roman)",
+  "article": "Notre-Dame de Paris (roman)",
+  "wikidata": {
+   "publication": [
+    [
+     1831,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "1482) est un roman historique de l'écrivain français Victor Hugo, publié en 1831",
+  "status": "OK"
+ },
+ {
+  "card": "Parution du Petit Prince",
+  "year": 1943,
+  "wiki": "Le Petit Prince",
+  "article": "Le Petit Prince",
+  "wikidata": {
+   "publication": [
+    [
+     1943,
+     11
+    ],
+    [
+     1943,
+     10
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Il est publié en anglais le 6 avril 1943 à New York par l'éditeur Reynal & Hitchcock (traduction de Katherine Woods), alors que la version originale en français paraît une quinzaine de jours après",
+  "status": "OK"
+ },
+ {
+  "card": "Parution des Trois Mousquetaires",
+  "year": 1844,
+  "wiki": "Les Trois Mousquetaires",
+  "article": "Les Trois Mousquetaires",
+  "wikidata": {
+   "publication": [
+    [
+     1844,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Trois Mousquetaires est le plus célèbre des romans d'Alexandre Dumas père, initialement publié en feuilleton dans le journal Le Siècle du 14 mars au 14 juillet 1844",
+  "status": "OK"
+ },
+ {
+  "card": "Parution du premier Harry Potter",
+  "year": 1997,
+  "wiki": "Harry Potter à l'école des sorciers",
+  "article": "Harry Potter à l'école des sorciers",
+  "wikidata": {
+   "création": [
+    [
+     1990,
+     8
+    ]
+   ],
+   "création/qualif": [
+    [
+     1990,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1997,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1997,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     1998,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Sorti à Londres le 26 juin 1997, il est initialement tiré à 500 exemplaires, puis connaît au fil des mois un succès grandissant",
+  "status": "OK"
+ },
+ {
+  "card": "Première aventure de Tintin",
+  "year": 1929,
+  "wiki": "Tintin au pays des Soviets",
+  "article": "Tintin au pays des Soviets",
+  "wikidata": {
+   "date": [
+    [
+     1930,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1929,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L’histoire est prépubliée dans le journal Le Petit Vingtième du 10 janvier 1929 au 8 mai 1930, puis paraît en album en septembre 1930",
+  "status": "OK"
+ },
+ {
+  "card": "Première apparition d'Astérix",
+  "year": 1959,
+  "wiki": "Astérix le Gaulois",
+  "article": "Astérix",
+  "wikidata": {
+   "création": [
+    [
+     1959,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1959,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Astérix, anciennement Astérix le Gaulois, est une série de bande dessinée française créée le 29 octobre 1959 par le scénariste français René Goscinny et le dessinateur français Albert Uderzo dans le no 1 du journal franç",
+  "status": "OK"
+ },
+ {
+  "card": "Première apparition des Schtroumpfs",
+  "year": 1958,
+  "wiki": "Les Schtroumpfs",
+  "article": "Les Schtroumpfs",
+  "wikidata": {
+   "publication": [
+    [
+     1958,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Schtroumpfs est une série de bande dessinée jeunesse belge créée par Peyo en 1958 racontant l'histoire d'un peuple imaginaire de petites créatures bleues logeant dans un village champignon au milieu d'une vaste forêt",
+  "status": "OK"
+ },
+ {
+  "card": "Mickey apparaît dans Steamboat Willie",
+  "year": 1928,
+  "wiki": "Steamboat Willie",
+  "article": "Steamboat Willie",
+  "wikidata": {
+   "publication": [
+    [
+     1928,
+     11
+    ],
+    [
+     1928,
+     11
+    ],
+    [
+     1928,
+     11
+    ]
+   ],
+   "première": [
+    [
+     1928,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1928,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Steamboat Willie, ou Willie, le bateau à vapeur au Québec, est un court métrage d'animation américain, initialement muet, des studios Disney avec Mickey Mouse sorti en 1928",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de Blanche-Neige et les Sept Nains de Disney",
+  "year": 1937,
+  "wiki": "Blanche-Neige et les Sept Nains (film, 1937)",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Sortie du Roi lion de Disney",
+  "year": 1994,
+  "wiki": "Le Roi lion",
+  "article": "Le Roi lion",
+  "wikidata": {
+   "publication": [
+    [
+     1994,
+     11
+    ],
+    [
+     1995,
+     11
+    ],
+    [
+     1994,
+     11
+    ],
+    [
+     1994,
+     11
+    ],
+    [
+     1994,
+     11
+    ],
+    [
+     1994,
+     9
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1994,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Réalisé par Roger Allers et Rob Minkoff, sorti en 1994, il est inspiré en grande partie du Hamlet de William Shakespeare",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de Toy Story",
+  "year": 1995,
+  "wiki": "Toy Story",
+  "article": "Toy Story",
+  "wikidata": {
+   "création": [
+    [
+     1995,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1995,
+     11
+    ],
+    [
+     1996,
+     11
+    ],
+    [
+     1996,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1995,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Toy Story, ou Histoire de jouets au Québec, est un film d'animation américain réalisé par John Lasseter et sorti en 1995",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du premier film Star Wars",
+  "year": 1977,
+  "wiki": "Star Wars, épisode IV : Un nouvel espoir",
+  "article": "Star Wars, épisode IV : Un nouvel espoir",
+  "wikidata": {
+   "publication": [
+    [
+     1977,
+     11
+    ],
+    [
+     1977,
+     11
+    ],
+    [
+     1978,
+     11
+    ],
+    [
+     1977,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Guerre des étoiles (Star Wars) est un film américain de science-fiction de type space opera écrit et réalisé par George Lucas, sorti en 1977",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du film Titanic de James Cameron",
+  "year": 1997,
+  "wiki": "Titanic (film, 1997)",
+  "article": "Titanic (film, 1997)",
+  "wikidata": {
+   "publication": [
+    [
+     1997,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1997,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Titanic est un film dramatique américain écrit, produit et réalisé par James Cameron, sorti en 1997",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de Jurassic Park",
+  "year": 1993,
+  "wiki": "Jurassic Park (film)",
+  "article": "Jurassic Park",
+  "wikidata": {
+   "publication": [
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1994,
+     11
+    ],
+    [
+     1994,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Jurassic Park (prononcé en anglais : [dʒʊˈɹæsɪk ˈpɑːk]), ou Le Parc jurassique (en français : [lə paʁk ʒyʁasik]) au Québec, est un film de science-fiction américain réalisé par Steven Spielberg, sorti en 1993",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du film Les Visiteurs",
+  "year": 1993,
+  "wiki": "Les Visiteurs",
+  "article": "Les Visiteurs",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Les Visiteurs est le titre de plusieurs œuvres :\n\n",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Sortie de Bienvenue chez les Ch'tis",
+  "year": 2008,
+  "wiki": "Bienvenue chez les Ch'tis",
+  "article": "Bienvenue chez les Ch'tis",
+  "wikidata": {
+   "publication": [
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2009,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Bienvenue chez les Ch'tis est un film français réalisé par Dany Boon, sorti le 20 février 2008 dans le Nord-Pas-de-Calais et dans quelques salles de la Somme, le 27 février dans le reste de la France, en Belgique et en S",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du film Intouchables",
+  "year": 2011,
+  "wiki": "Intouchables",
+  "article": "Intouchable",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Intouchable peut désigner :\n\nDans le système des castes de l'Inde, un intouchable est une personne hors-caste considérée comme impure ;\nUn nombre intouchable n'est jamais obtenu comme somme des diviseurs d'un entier ;\nIn",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Méliès tourne Le Voyage dans la Lune",
+  "year": 1902,
+  "wiki": "Le Voyage dans la Lune",
+  "article": "Le Voyage dans la Lune",
+  "wikidata": {
+   "publication": [
+    [
+     1902,
+     11
+    ],
+    [
+     1902,
+     11
+    ],
+    [
+     2012,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Voyage dans la Lune est un film muet de science-fiction français écrit, produit et réalisé par Georges Méliès, et sorti en 1902",
+  "status": "OK"
+ },
+ {
+  "card": "Le Chanteur de jazz, premier film parlant",
+  "year": 1927,
+  "wiki": "Le Chanteur de jazz",
+  "article": "Le Chanteur de jazz",
+  "wikidata": {
+   "publication": [
+    [
+     1927,
+     11
+    ],
+    [
+     1929,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Chanteur de jazz (The Jazz Singer) est un film musical américain réalisé par Alan Crosland, sorti en 1927",
+  "status": "OK"
+ },
+ {
+  "card": "Premier Festival de Cannes",
+  "year": 1946,
+  "wiki": "Festival de Cannes 1946",
+  "article": "Festival de Cannes 1946",
+  "wikidata": {
+   "date": [
+    [
+     1946,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La première édition du Festival international du film, plus couramment appelé Festival de Cannes, a lieu du 20 septembre au 5 octobre 1946 au Casino municipal de Cannes, dans l'attente de la construction du Palais des Fe",
+  "status": "OK"
+ },
+ {
+  "card": "Première cérémonie des Oscars",
+  "year": 1929,
+  "wiki": "1re cérémonie des Oscars",
+  "article": "1re cérémonie des Oscars",
+  "wikidata": {
+   "date": [
+    [
+     1929,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La 1re cérémonie des Oscars du cinéma s'est déroulée le 16 mai 1929 lors d'un dîner privé à l'Hotel Roosevelt à Hollywood, devant 250 convives",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du premier disque des Beatles, Love Me Do",
+  "year": 1962,
+  "wiki": "Love Me Do",
+  "article": "Love Me Do",
+  "wikidata": {
+   "publication": [
+    [
+     1962,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle est sortie en single le 5 octobre 1962 avec P",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie de l'album Thriller de Michael Jackson",
+  "year": 1982,
+  "wiki": "Thriller (album)",
+  "article": "Thriller (album)",
+  "wikidata": {
+   "publication": [
+    [
+     1982,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Coproduit par Quincy Jones, qui avait déjà collaboré avec Jackson sur l’album Off the Wall en 1979, il sort le 30 novembre 1982",
+  "status": "OK"
+ },
+ {
+  "card": "Rouget de Lisle compose La Marseillaise",
+  "year": 1792,
+  "wiki": "La Marseillaise",
+  "article": "La Marseillaise",
+  "wikidata": {
+   "création": [
+    [
+     1792,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     1792,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les six premiers couplets ont été écrits par Rouget de Lisle sous le titre de Chant de guerre pour l'armée du Rhin à Strasbourg en 1792 dans la nuit du 25 au 26 avril, en réaction à la déclaration de guerre contre l'Autr",
+  "status": "OK"
+ },
+ {
+  "card": "Première de la 9e symphonie de Beethoven",
+  "year": 1824,
+  "wiki": "Symphonie no 9 de Beethoven",
+  "article": "Symphonie no 9 de Beethoven",
+  "wikidata": {
+   "création": [
+    [
+     1824,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1826,
+     9
+    ]
+   ],
+   "première": [
+    [
+     1824,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Elle a été composée de la fin de l'année 1822 à février 1824, et créée à Vienne le 7 mai 1824 en hommage au roi Frédéric-Guillaume III de Prusse",
+  "status": "OK"
+ },
+ {
+  "card": "Publication des Quatre Saisons de Vivaldi",
+  "year": 1725,
+  "wiki": "Les Quatre Saisons",
+  "article": "Les Quatre Saisons",
+  "wikidata": {
+   "publication": [
+    [
+     1725,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Quatre Saisons d'Antonio Vivaldi (Le quattro stagioni, en italien) (opus 8, no 1-4, RV 269 Le Printemps, RV 315 L'Été, RV 293 L'Automne, et RV 297 L'Hiver) sont les quatre premiers concertos baroques des douze concer",
+  "status": "OK"
+ },
+ {
+  "card": "Première de La Flûte enchantée de Mozart",
+  "year": 1791,
+  "wiki": "La Flûte enchantée",
+  "article": "La Flûte enchantée",
+  "wikidata": {
+   "création": [
+    [
+     1791,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1800,
+     7
+    ]
+   ],
+   "première": [
+    [
+     1791,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La première représentation a lieu le 30 septembre 1791 dans les faubourgs de Vienne, au théâtre de Schikaneder (Theater auf der Wieden), petite salle en bois édifiée quatre ans plus tôt dans une des propriétés du prince ",
+  "status": "OK"
+ },
+ {
+  "card": "Première du Boléro de Ravel",
+  "year": 1928,
+  "wiki": "Boléro (Ravel)",
+  "article": "Boléro (Ravel)",
+  "wikidata": {
+   "création": [
+    [
+     1928,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1929,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Boléro de Maurice Ravel est une musique de ballet pour orchestre en ut majeur composée en 1928 et créée le 22 novembre de la même année à l’Opéra Garnier par sa dédicataire, la danseuse russe Ida Rubinstein",
+  "status": "OK"
+ },
+ {
+  "card": "Monet peint Impression, soleil levant",
+  "year": 1872,
+  "wiki": "Impression, soleil levant",
+  "article": "Impression, soleil levant",
+  "wikidata": {
+   "création": [
+    [
+     1872,
+     9
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1878,
+     9
+    ],
+    [
+     1985,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La date d'exécution de cette marine, probablement pendant l'hiver 1872-1873, est hypothétique",
+  "status": "OK"
+ },
+ {
+  "card": "Picasso peint Guernica",
+  "year": 1937,
+  "wiki": "Guernica (Picasso)",
+  "article": "Guernica (Picasso)",
+  "wikidata": {
+   "création": [
+    [
+     1937,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Picasso réalise cette huile sur toile de style cubiste entre le 1er mai et le 4 juin 1937, à Paris, en réponse à une commande du gouvernement républicain de Francisco Largo Caballero pour le pavillon espagnol de l'Exposi",
+  "status": "OK"
+ },
+ {
+  "card": "Delacroix peint La Liberté guidant le peuple",
+  "year": 1830,
+  "wiki": "La Liberté guidant le peuple",
+  "article": "La Liberté guidant le peuple",
+  "wikidata": {
+   "création": [
+    [
+     1830,
+     9
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2013,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2023,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La Liberté guidant le peuple (titre complet : Le 28 juillet 1830",
+  "status": "OK"
+ },
+ {
+  "card": "Munch peint Le Cri",
+  "year": 1893,
+  "wiki": "Le Cri",
+  "article": "Le Cri",
+  "wikidata": {
+   "création": [
+    [
+     1893,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Cri (en norvégien : Skrik) est une œuvre expressionniste de l'artiste norvégien Edvard Munch dont il existe cinq versions (deux peintures, un pastel, un au crayon et une lithographie) réalisées entre 1893 et 1917",
+  "status": "OK"
+ },
+ {
+  "card": "Van Gogh peint La Nuit étoilée",
+  "year": 1889,
+  "wiki": "La Nuit étoilée",
+  "article": "Nuit étoilée",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier volume de l'Encyclopédie de Diderot",
+  "year": 1751,
+  "wiki": "Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers",
+  "article": "Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers",
+  "wikidata": {
+   "publication": [
+    [
+     1751,
+     9
+    ],
+    [
+     1772,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L’Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers aussi appelée Encyclopédie de Diderot et d'Alembert ou Encyclopédie de Diderot, D'Alembert et Jaucourt, est une encyclopédie française, éditée",
+  "status": "OK"
+ },
+ {
+  "card": "Première du Misanthrope de Molière",
+  "year": 1666,
+  "wiki": "Le Misanthrope",
+  "article": "Le Misanthrope",
+  "wikidata": {
+   "création": [
+    [
+     1666,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1666,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Misanthrope est une comédie de Molière en cinq actes en alexandrins, créée le 4 juin 1666 sur la scène du Palais-Royal",
+  "status": "OK"
+ },
+ {
+  "card": "Première du Cid de Corneille",
+  "year": 1637,
+  "wiki": "Le Cid",
+  "article": "Le Cid",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Cette page contient les pages d'homonymie de Le Cid et El Cid.\nLe mot Cid est un titre donné à un seigneur, un chef ou une personne  de haut rang et classe sociale\n\n",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier recueil des Fables de La Fontaine",
+  "year": 1668,
+  "wiki": "Fables de La Fontaine",
+  "article": "Fables de La Fontaine",
+  "wikidata": {
+   "publication": [
+    [
+     1668,
+     9
+    ]
+   ],
+   "publication/qualif": [
+    [
+     1668,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "de La Fontaine, appelées simplement Fables de La Fontaine, sont trois recueils regroupant deux cent quarante-trois fables allégoriques publiés par Jean de La Fontaine entre 1668 et 1694",
+  "status": "OK"
+ },
+ {
+  "card": "Voltaire publie Candide",
+  "year": 1759,
+  "wiki": "Candide",
+  "article": "Candide",
+  "wikidata": {
+   "création": [
+    [
+     1782,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1759,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Candide ou l'Optimisme est un conte philosophique de Voltaire paru à Genève en janvier 1759",
+  "status": "OK"
+ },
+ {
+  "card": "Parution de la première partie de Don Quichotte",
+  "year": 1605,
+  "wiki": "Don Quichotte",
+  "article": "Don Quichotte",
+  "wikidata": {
+   "publication": [
+    [
+     1605,
+     9
+    ],
+    [
+     1615,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L’Ingénieux Hidalgo Don Quichotte de la Manche ou L'Ingénieux Noble Don Quichotte de la Manche (titre original en espagnol El ingenioso hidalgo don Quixote de la Mancha ; en espagnol moderne : El ingenioso hidalgo don Qu",
+  "status": "OK"
+ },
+ {
+  "card": "Premier numéro du journal Spirou",
+  "year": 1938,
+  "wiki": "Spirou (périodique)",
+  "article": "Spirou",
+  "wikidata": {
+   "création": [
+    [
+     1938,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1938,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Fondé par l'éditeur Jean Dupuis le 21 avril 1938, le périodique paraît tout d'abord sous le titre Le Journal de Spirou",
+  "status": "OK"
+ },
+ {
+  "card": "Premier numéro du Journal de Mickey",
+  "year": 1934,
+  "wiki": "Le Journal de Mickey",
+  "article": "Le Journal de Mickey",
+  "wikidata": {
+   "création": [
+    [
+     1934,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Journal de Mickey ou JDM est un magazine bimensuel (depuis le 12 juin 2024, anciennement hebdomadaire) français de bande dessinée publié depuis le 21 octobre 1934",
+  "status": "OK"
+ },
+ {
+  "card": "Fondation de Netflix",
+  "year": 1997,
+  "wiki": "Netflix",
+  "article": "Netflix",
+  "wikidata": {
+   "création": [
+    [
+     2007,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Fondé en 1997 à Scotts Valley (Santa Cruz) par Reed Hastings et Marc Randolph, le groupe est spécialisé dans la distribution et l'exploitation d'œuvres cinématographiques et télévisuelles, notamment par le biais d'une pl",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Premier épisode des Simpson",
+  "year": 1989,
+  "wiki": "Les Simpson",
+  "article": "Les Simpson",
+  "wikidata": {
+   "début": [
+    [
+     1989,
+     11
+    ]
+   ],
+   "première": [
+    [
+     1989,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Simpson (The Simpsons) sont une série télévisée d'animation américaine créée par Matt Groening et diffusée pour la première fois à partir du 17 décembre 1989 sur le réseau Fox",
+  "status": "OK"
+ },
+ {
+  "card": "Premier épisode de Friends",
+  "year": 1994,
+  "wiki": "Friends",
+  "article": "Friends",
+  "wikidata": {
+   "début": [
+    [
+     1994,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2004,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Friends [fɹɛn(d)z]  est une sitcom américaine populaire composée de 10 saisons, avec 236 épisodes de 22 minutes, créée par Marta Kauffman et David Crane, et diffusée entre le 22 septembre 1994 et le 6 mai 2004 sur le rés",
+  "status": "OK"
+ },
+ {
+  "card": "Premier épisode de Game of Thrones",
+  "year": 2011,
+  "wiki": "Game of Thrones",
+  "article": "Game of Thrones",
+  "wikidata": {
+   "début": [
+    [
+     2011,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2019,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Weiss, diffusée entre le 17 avril 2011 et le 19 mai 2019 sur HBO aux États-Unis en simultané sur HBO Canada au Canada",
+  "status": "OK"
+ },
+ {
+  "card": "Début du manga Dragon Ball",
+  "year": 1984,
+  "wiki": "Dragon Ball",
+  "article": "Dragon Ball",
+  "wikidata": {
+   "début": [
+    [
+     1984,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Dragon Ball) est un manga d'Akira Toriyama prépublié dans le magazine Weekly Shōnen Jump du 20 novembre 1984 au 23 mai 1995 et édité  par Shūeisha en 42 volumes reliés du 10 septembre 1985 au 4 août 1995",
+  "status": "OK"
+ },
+ {
+  "card": "Début du manga One Piece",
+  "year": 1997,
+  "wiki": "One Piece",
+  "article": "One Piece",
+  "wikidata": {
+   "publication": [
+    [
+     1997,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1998,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     2000,
+     11
+    ],
+    [
+     2000,
+     11
+    ],
+    [
+     2000,
+     11
+    ],
+    [
+     2000,
+     11
+    ],
+    [
+     2000,
+     11
+    ],
+    [
+     2001,
+     11
+    ],
+    [
+     2001,
+     11
+    ],
+    [
+     2001,
+     11
+    ],
+    [
+     2001,
+     11
+    ],
+    [
+     2001,
+     11
+    ],
+    [
+     2002,
+     11
+    ],
+    [
+     2002,
+     11
+    ],
+    [
+     2002,
+     11
+    ],
+    [
+     2002,
+     11
+    ],
+    [
+     2002,
+     11
+    ],
+    [
+     2003,
+     11
+    ],
+    [
+     2003,
+     11
+    ],
+    [
+     2003,
+     11
+    ],
+    [
+     2003,
+     11
+    ],
+    [
+     2003,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2004,
+     11
+    ],
+    [
+     2005,
+     11
+    ],
+    [
+     2005,
+     11
+    ],
+    [
+     2005,
+     11
+    ],
+    [
+     2005,
+     11
+    ],
+    [
+     2005,
+     11
+    ],
+    [
+     2006,
+     11
+    ],
+    [
+     2006,
+     11
+    ],
+    [
+     2006,
+     11
+    ],
+    [
+     2006,
+     11
+    ],
+    [
+     2007,
+     11
+    ],
+    [
+     2007,
+     11
+    ],
+    [
+     2007,
+     11
+    ],
+    [
+     2007,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2008,
+     11
+    ],
+    [
+     2009,
+     11
+    ],
+    [
+     2009,
+     11
+    ],
+    [
+     2009,
+     11
+    ],
+    [
+     2009,
+     11
+    ],
+    [
+     2010,
+     11
+    ],
+    [
+     2010,
+     11
+    ],
+    [
+     2010,
+     11
+    ],
+    [
+     2010,
+     11
+    ],
+    [
+     2011,
+     11
+    ],
+    [
+     2011,
+     11
+    ],
+    [
+     2011,
+     11
+    ],
+    [
+     2011,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2013,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2014,
+     11
+    ],
+    [
+     2015,
+     11
+    ],
+    [
+     2015,
+     11
+    ],
+    [
+     2015,
+     11
+    ],
+    [
+     2015,
+     11
+    ],
+    [
+     2016,
+     11
+    ],
+    [
+     2016,
+     11
+    ],
+    [
+     2016,
+     11
+    ],
+    [
+     2017,
+     11
+    ],
+    [
+     2017,
+     11
+    ],
+    [
+     2017,
+     11
+    ],
+    [
+     2017,
+     11
+    ],
+    [
+     2018,
+     11
+    ],
+    [
+     2018,
+     11
+    ],
+    [
+     2018,
+     11
+    ],
+    [
+     2018,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2019,
+     11
+    ],
+    [
+     2020,
+     11
+    ],
+    [
+     2020,
+     11
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2022,
+     11
+    ],
+    [
+     2022,
+     11
+    ],
+    [
+     2022,
+     11
+    ],
+    [
+     2023,
+     11
+    ],
+    [
+     2023,
+     11
+    ],
+    [
+     2023,
+     11
+    ],
+    [
+     2024,
+     11
+    ],
+    [
+     2024,
+     11
+    ],
+    [
+     2024,
+     11
+    ],
+    [
+     2025,
+     11
+    ],
+    [
+     2025,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1997,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Il est prépublié depuis le 22 juillet 1997 dans le magazine hebdomadaire Weekly Shōnen Jump, puis regroupé en tankōbon aux éditions Shūeisha depuis le 24 décembre 1997",
+  "status": "OK"
+ },
+ {
+  "card": "Début du manga Naruto",
+  "year": 1999,
+  "wiki": "Naruto",
+  "article": "Naruto",
+  "wikidata": {
+   "début": [
+    [
+     1999,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2014,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Naruto est prépublié dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha entre septembre 1999 et novembre 2014",
+  "status": "OK"
+ },
+ {
+  "card": "Sortie du clip Gangnam Style",
+  "year": 2012,
+  "wiki": "Gangnam Style",
+  "article": "Gangnam Style",
+  "wikidata": {
+   "publication": [
+    [
+     2012,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le single est extrait de l'EP Psy 6 (Six Rules), Part 1 (2012)",
+  "status": "OK"
+ },
+ {
+  "card": "Premier concours Eurovision de la chanson",
+  "year": 1956,
+  "wiki": "Concours Eurovision de la chanson 1956",
+  "article": "Concours Eurovision de la chanson 1956",
+  "wikidata": {
+   "date": [
+    [
+     1956,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Concours Eurovision de la chanson 1956, officiellement le Grand Prix Eurovision de la Chanson Européenne 1956 (en italien : Gran Premio Eurovisione 1956 della Canzone Europea, et en anglais : Grand Prix of the Eurovis",
+  "status": "OK"
+ },
+ {
+  "card": "Festival de Woodstock",
+  "year": 1969,
+  "wiki": "Festival de Woodstock",
+  "article": "Festival de Woodstock",
+  "wikidata": {
+   "création": [
+    [
+     1969,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1969,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1969,
+     11
+    ]
+   ],
+   "ouverture": [
+    [
+     1969,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Organisé pour se dérouler du 15 août 1969 au 17 août 1969 et accueillir 50 000 spectateurs, il en reçoit finalement environ un demi million, et se poursuit un jour de plus, soit jusqu'au 18 août 1969 au matin",
+  "status": "OK"
+ },
+ {
+  "card": "Première Fête de la musique",
+  "year": 1982,
+  "wiki": "Fête de la musique",
+  "article": "Fête de la musique",
+  "wikidata": {
+   "création": [
+    [
+     1982,
+     9
+    ]
+   ],
+   "début": [
+    [
+     1982,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Institutionnalisée par Jack Lang en 1982, elle est actuellement célébrée dans une centaine de pays",
+  "status": "OK"
+ },
+ {
+  "card": "Premier Téléthon en France",
+  "year": 1987,
+  "wiki": "Téléthon (France)",
+  "article": "Téléthon en France",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "En France, le Téléthon est un événement caritatif organisé depuis 1987 par l'Association française contre les myopathies (AFM) pour financer des projets de recherche sur les maladies génétiques neuromusculaires (myopathi",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Coluche crée les Restos du cœur",
+  "year": 1985,
+  "wiki": "Restos du cœur",
+  "article": "Les Restaurants du Cœur",
+  "wikidata": {
+   "création": [
+    [
+     1985,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Les Restaurants du Cœur, plus connus sous le nom de Les Restos du Cœur, sont une association loi 1901 à but non lucratif et reconnue d'utilité publique, créée en France par l'humoriste et comédien Michel Colucci (dit Col",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture de la première ligne du métro de Paris",
+  "year": 1900,
+  "wiki": "Ligne 1 du métro de Paris",
+  "article": "Ligne 1 du métro de Paris",
+  "wikidata": {
+   "ouverture": [
+    [
+     1900,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Cette première ligne française, dont le premier tronçon est ouvert en 1900 lors de l'Exposition universelle, relie aujourd'hui la station La Défense à l'ouest, à la station Château de Vincennes, à l'est et suit l'axe his",
+  "status": "OK"
+ },
+ {
+  "card": "Ouverture du premier métro du monde à Londres",
+  "year": 1863,
+  "wiki": "Metropolitan Railway",
+  "article": "Metropolitan Railway",
+  "wikidata": {
+   "ouverture": [
+    [
+     1863,
+     11
+    ]
+   ],
+   "fermeture": [
+    [
+     1933,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le Metropolitan Railway (Chemin de fer métropolitain), également connu sous le nom de Met, est une ancienne compagnie de chemin de fer de voyageurs et de marchandises, qui a desservi Londres de 1863 à 1933",
+  "status": "OK"
+ },
+ {
+  "card": "Premier Guide Michelin",
+  "year": 1900,
+  "wiki": "Guide Michelin",
+  "article": "Guide Michelin",
+  "wikidata": {
+   "création": [
+    [
+     1900,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1900,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "La version française a été vendue, selon son éditeur, à trente-cinq millions d'exemplaires entre 1900 et 2007",
+  "status": "OK"
+ },
+ {
+  "card": "Premiers congés payés en France",
+  "year": 1936,
+  "wiki": "Congés payés en France",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Création de la Sécurité sociale",
+  "year": 1945,
+  "wiki": "Sécurité sociale en France",
+  "article": "Sécurité sociale (France)",
+  "wikidata": {
+   "création": [
+    [
+     1945,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "C'est dans ce contexte que le 4 et le 19 octobre 1945, le Gouvernement provisoire de la République française institue officiellement, par ordonnance, le régime général de la Sécurité sociale qui sera mis en place par les",
+  "status": "OK"
+ },
+ {
+  "card": "Promulgation du Code civil de Napoléon",
+  "year": 1804,
+  "wiki": "Code civil des Français",
+  "article": "Code civil (France)",
+  "wikidata": {
+   "date": [
+    [
+     1804,
+     9
+    ]
+   ],
+   "publication": [
+    [
+     1804,
+     11
+    ]
+   ],
+   "début": [
+    [
+     1804,
+     9
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Promulgué le 21 mars 1804 (30 ventôse an XII) par Napoléon Bonaparte, il reprend une partie des articles de la coutume de Paris et du droit écrit du Sud de la France",
+  "status": "OK"
+ },
+ {
+  "card": "Le Penny Black, premier timbre-poste",
+  "year": 1840,
+  "wiki": "Penny Black",
+  "article": "Penny Black",
+  "wikidata": {
+   "création": [
+    [
+     1840,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     1840,
+     11
+    ],
+    [
+     1840,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Il a été émis le 1er mai 1840 au Royaume-Uni de Grande-Bretagne et d'Irlande à l'initiative de Rowland Hill, pour un usage officiel à partir du 6 mai, dans le cadre de la réforme du système postal britannique destinée à ",
+  "status": "OK"
+ },
+ {
+  "card": "Premier timbre français, le Cérès",
+  "year": 1849,
+  "wiki": "Type Cérès",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Fondation d'IKEA",
+  "year": 1943,
+  "wiki": "IKEA",
+  "article": "Ikea",
+  "wikidata": {
+   "création": [
+    [
+     1943,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Créé en 1943 et inscrite dans le registre du commerce le 28 juillet1943 par Ingvar Kamprad, le groupe Ikea est sous la tutelle depuis 1982, d'une part, d'une fondation de droit néerlandais, INGKA Holding B",
+  "status": "OK"
+ },
+ {
+  "card": "Premier hypermarché Carrefour",
+  "year": 1963,
+  "wiki": "Carrefour (entreprise)",
+  "article": "Groupe Carrefour",
+  "wikidata": {
+   "création": [
+    [
+     1959,
+     9
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Carrefour est une multinationale française du secteur de la grande distribution, pionnière du concept d'hypermarché en 1963",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Passage au nouveau franc",
+  "year": 1960,
+  "wiki": "Nouveau franc",
+  "article": "Franc français",
+  "wikidata": {
+   "début": [
+    [
+     1795,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     2002,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "ou le symbole informatique ₣ ; code ISO 4217 FRF pour celui de 1960-2002), est une ancienne unité monétaire de la France, utilisée également en Andorre et à Monaco",
+  "status": "TEXTE"
+ },
+ {
+  "card": "La majorité passe à 18 ans en France",
+  "year": 1974,
+  "wiki": "Majorité civile en France",
+  "article": "Majorité civile en France",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "En France, la majorité civile est fixée à 18 ans depuis 1974",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Loi Veil sur l'IVG",
+  "year": 1975,
+  "wiki": "Loi Veil",
+  "article": "Loi Veil",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "La loi du 17 janvier 1975 relative à l'interruption volontaire de grossesse, dite loi Veil, est une loi encadrant une dépénalisation de l'avortement en France",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Création du PACS",
+  "year": 1999,
+  "wiki": "Pacte civil de solidarité",
+  "article": "Pacte civil de solidarité",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Proposé en 1990 sous le nom de « contrat de partenariat civil », et après une longue gestation, le pacs a été instauré en 1999 par l'article 515-1 du Code civil, sous le gouvernement Jospin, dans le but de « prendre en c",
+  "status": "TEXTE"
+ },
+ {
+  "card": "Loi sur le mariage pour tous en France",
+  "year": 2013,
+  "wiki": "Loi ouvrant le mariage aux couples de personnes de même sexe",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Astérix, premier satellite français",
+  "year": 1965,
+  "wiki": "Astérix (satellite)",
+  "article": "Astérix (satellite)",
+  "wikidata": {
+   "lancement": [
+    [
+     1965,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1965,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Astérix est le premier satellite artificiel français lancé le 26 novembre 1965 à 15 h 47 min 21 s heure de Paris par une fusée Diamant-A depuis le Centre interarmées d'essais d'engins spéciaux d'Hammaguir, en Algérie",
+  "status": "OK"
+ },
+ {
+  "card": "Premier lancement de la fusée Ariane",
+  "year": 1979,
+  "wiki": "Ariane 1",
+  "article": "Ariane 1",
+  "wikidata": {
+   "début": [
+    [
+     1979,
+     11
+    ]
+   ],
+   "fin": [
+    [
+     1986,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Le premier vol a lieu le 24 décembre 1979",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement du premier module de la Station spatiale internationale",
+  "year": 1998,
+  "wiki": "Zarya",
+  "article": "Zaria",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "Zaria ou Zarya désigne plusieurs sujets.\n\n",
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Premier vol de Thomas Pesquet dans l'espace",
+  "year": 2016,
+  "wiki": "Proxima (mission spatiale)",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Lancement du télescope spatial Hubble",
+  "year": 1990,
+  "wiki": "Télescope spatial Hubble",
+  "article": "Hubble (télescope spatial)",
+  "wikidata": {
+   "lancement": [
+    [
+     1990,
+     11
+    ]
+   ],
+   "mise en service": [
+    [
+     1990,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1990,
+     11
+    ],
+    [
+     1990,
+     11
+    ],
+    [
+     1990,
+     11
+    ],
+    [
+     1993,
+     11
+    ],
+    [
+     1997,
+     11
+    ],
+    [
+     1999,
+     11
+    ],
+    [
+     2002,
+     11
+    ],
+    [
+     2009,
+     11
+    ],
+    [
+     2030,
+     8
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Hubble (en anglais : Hubble Space Telescope, en abrégé HST ou, rarement en français, TSH) est un télescope spatial conçu par la NASA avec une participation de l'Agence spatiale européenne, opérationnel depuis 1990, et or",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement du télescope spatial James-Webb",
+  "year": 2021,
+  "wiki": "Télescope spatial James-Webb",
+  "article": "James Webb (télescope spatial)",
+  "wikidata": {
+   "lancement": [
+    [
+     2021,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1996,
+     9
+    ],
+    [
+     2008,
+     9
+    ],
+    [
+     2010,
+     9
+    ],
+    [
+     2019,
+     10
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2021,
+     11
+    ],
+    [
+     2022,
+     11
+    ],
+    [
+     2022,
+     11
+    ],
+    [
+     2022,
+     11
+    ],
+    [
+     2022,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Son lancement a lieu le 25 décembre 2021 au centre spatial de Kourou en Guyane française et la première image de qualité scientifique produite par le télescope est publiée en juillet 2022",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement de la sonde Voyager 1",
+  "year": 1977,
+  "wiki": "Voyager 1",
+  "article": "Voyager 1",
+  "wikidata": {
+   "lancement": [
+    [
+     1977,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     1977,
+     11
+    ],
+    [
+     1979,
+     11
+    ],
+    [
+     1980,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Lancée le 5 septembre 1977, elle est destinée à l'étude des planètes externes du Système solaire, qui n'ont avant elles été observées qu'au moyen de télescopes situés sur Terre, notamment les systèmes de Jupiter et de Sa",
+  "status": "OK"
+ },
+ {
+  "card": "Le robot Curiosity se pose sur Mars",
+  "year": 2012,
+  "wiki": "Curiosity (rover)",
+  "article": "Curiosity (astromobile)",
+  "wikidata": {
+   "lancement": [
+    [
+     2011,
+     11
+    ]
+   ],
+   "événement/qualif": [
+    [
+     2011,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2012,
+     11
+    ],
+    [
+     2026,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "Curiosity est une astromobile (rover en anglais) déployée à Aeolis Palus sur Mars en 2012 via la mission Mars Science Laboratory",
+  "status": "OK"
+ },
+ {
+  "card": "Philae se pose sur une comète",
+  "year": 2014,
+  "wiki": "Philae (sonde spatiale)",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Explosion de la navette Challenger",
+  "year": 1986,
+  "wiki": "Accident de la navette spatiale Challenger",
+  "article": "Accident de la navette spatiale Challenger",
+  "wikidata": {
+   "date": [
+    [
+     1986,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L’accident de la navette spatiale américaine Challenger est un accident astronautique qui a lieu le 28 janvier 1986 en Floride, lors duquel la navette spatiale Challenger de l'agence spatiale américaine la NASA se désint",
+  "status": "OK"
+ },
+ {
+  "card": "Lancement de ChatGPT",
+  "year": 2022,
+  "wiki": "ChatGPT",
+  "article": "ChatGPT",
+  "wikidata": {
+   "publication": [
+    [
+     2022,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "ChatGPT est lancé en novembre 2022 dans une version gratuite où il n'a pas accès à Internet comme source d'informations",
+  "status": "OK"
+ },
+ {
+  "card": "Deep Blue bat Kasparov aux échecs",
+  "year": 1997,
+  "wiki": "Deep Blue",
+  "article": "Deep Blue",
+  "wikidata": {},
+  "wd_match": false,
+  "intro_match": true,
+  "intro_phrase": "Puis, surnommé alors Deeper Blue, il le bat 3,5–2,5 lors du match revanche en 1997, mais hors des conditions exigées lors des championnats du monde",
+  "status": "TEXTE"
+ },
+ {
+  "card": "AlphaGo bat Lee Sedol au go",
+  "year": 2016,
+  "wiki": "AlphaGo contre Lee Sedol",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Publication du livre blanc du Bitcoin",
+  "year": 2008,
+  "wiki": "Bitcoin",
+  "article": "Bitcoin",
+  "wikidata": {
+   "création": [
+    [
+     2009,
+     11
+    ]
+   ],
+   "publication": [
+    [
+     2009,
+     11
+    ]
+   ],
+   "première mention": [
+    [
+     2008,
+     11
+    ]
+   ]
+  },
+  "wd_match": true,
+  "intro_match": true,
+  "intro_phrase": "L'idée est présentée pour la première fois en novembre 2008 par une personne, ou un groupe de personnes, sous le pseudonyme de Satoshi Nakamoto",
+  "status": "OK"
+ },
+ {
+  "card": "Premier saut en parachute de Garnerin",
+  "year": 1797,
+  "wiki": "André-Jacques Garnerin",
+  "article": "André-Jacques Garnerin",
+  "wikidata": {
+   "naissance": [
+    [
+     1769,
+     11
+    ],
+    [
+     1769,
+     11
+    ]
+   ],
+   "mort": [
+    [
+     1823,
+     11
+    ]
+   ]
+  },
+  "wd_match": false,
+  "intro_match": false,
+  "intro_phrase": "André-Jacques Garnerin, né le 30 janvier 1769 à Paris où il est mort le 19 août 1823, est un aérostier français et le premier parachutiste de l'Histoire.",
+  "status": "A-VOIR"
+ }
+]

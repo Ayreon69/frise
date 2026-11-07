@@ -1,0 +1,11 @@
+{
+  "name": "Frise",
+  "short_name": "Frise",
+  "description": "Place tes cartes dans la frise commune, sans connaître leur date : le premier qui n'en a plus gagne.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14231f",
+  "theme_color": "#14231f",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
