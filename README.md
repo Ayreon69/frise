@@ -2,7 +2,7 @@
 
 **L'imprimerie, avant ou après la boussole ? Glisse chaque carte à sa place dans la frise.**
 
-👉 **Jouer : (adresse en ligne à venir)** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://frise-iaom.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu de cartes multijoueur en ligne, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 Inspiré des jeux de frise chronologique (création de fans, non officielle) : nom, cartes, dessins et visuels sont propres à ce jeu.
