@@ -267,7 +267,7 @@ if (!(await ana.call('game:restart')).ok) fail('revanche refusée');
 await waitFor('le salon', () => ana.view?.phase === 'lobby');
 for (const c of all) c.playedFor = -1;
 dan.mode = 'actif';
-if (!(await ana.call('room:settings', { hand: 3, families: ['culture'], turn: 30 })).ok) fail('réglages refusés');
+if (!(await ana.call('room:settings', { hand: 3, families: ['cinema'], turn: 30 })).ok) fail('réglages refusés');
 while (ana.view.players.filter((p) => p.status !== 'spectator').length < 8) {
   if (!(await ana.call('room:addBot')).ok) fail('bot refusé');
   await pause(30);
@@ -277,10 +277,10 @@ watcher = eve;
 dealt = 3;
 if (!(await ana.call('game:start')).ok) fail('lancement de la revanche refusé');
 await waitFor('la revanche', () => [ana, bob, dan, eve].every((c) => c.view?.phase === 'playing'));
-for (const card of ana.view.game.line) if (card.family !== 'culture') fail('une carte hors thème');
+for (const card of ana.view.game.line) if (card.family !== 'cinema') fail('une carte hors thème');
 await waitFor('la fin de la partie 2', () => ana.view?.phase === 'finished', 120_000);
 const f2 = ana.view.final;
-for (const card of f2.line) if (card.family !== 'culture') fail('une carte hors thème dans la frise');
+for (const card of f2.line) if (card.family !== 'cinema') fail('une carte hors thème dans la frise');
 console.log(`✓ partie 2 : ${f2.players.length} joueurs, ${f2.line.length} cartes, gagnant ${f2.players.find((p) => p.winner).name}${f2.tied.length ? ' (départage)' : ''}`);
 
 // L'hôte part : un autre humain prend la main.

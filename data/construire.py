@@ -76,7 +76,39 @@ EMOJIS = {
 
 FAMILLES = {"invention": "inventions", "science": "sciences", "espace": "sciences",
             "histoire": "histoire", "monument": "histoire", "culture": "culture",
-            "loisirs": "loisirs", "sport": "loisirs"}
+            "loisirs": "loisirs", "sport": "loisirs",
+            "film": "cinema", "jeuvideo": "jeuxvideo", "console": "jeuxvideo", "lol": "jeuxvideo",
+            "anime": "animes", "manga": "animes"}
+
+# 15/11/2026 : les films, jeux vidéo et mangas du premier paquet rejoignent les nouvelles familles.
+RECLASSER = {
+    "Première projection payante du cinématographe Lumière": "film",
+    "Méliès tourne Le Voyage dans la Lune": "film",
+    "Le Chanteur de jazz, premier film parlant": "film",
+    "Mickey apparaît dans Steamboat Willie": "film",
+    "Première cérémonie des Oscars": "film",
+    "Sortie de Blanche-Neige et les Sept Nains de Disney": "film",
+    "Premier Festival de Cannes": "film",
+    "Sortie du premier film Star Wars": "film",
+    "Sortie de Jurassic Park": "film",
+    "Sortie du film Les Visiteurs": "film",
+    "Sortie du Roi lion de Disney": "film",
+    "Sortie de Toy Story": "film",
+    "Sortie du film Titanic de James Cameron": "film",
+    "Sortie de Bienvenue chez les Ch'tis": "film",
+    "Sortie du film Intouchables": "film",
+    "Sortie de Pac-Man": "jeuvideo",
+    "Alexeï Pajitnov crée Tetris": "jeuvideo",
+    "Sortie de Super Mario Bros.": "jeuvideo",
+    "Sortie de la Game Boy": "console",
+    "Sortie de la PlayStation au Japon": "console",
+    "Sortie de Pokémon Rouge et Vert": "jeuvideo",
+    "Première version publique de Minecraft": "jeuvideo",
+    "Sortie de Fortnite": "jeuvideo",
+    "Début du manga Dragon Ball": "manga",
+    "Début du manga One Piece": "manga",
+    "Début du manga Naruto": "manga",
+}
 
 cands = json.load(open("data/candidates.json", encoding="utf-8"))
 rapport = {r["card"]: r for r in json.load(open("data/rapport.json", encoding="utf-8"))}
@@ -86,15 +118,42 @@ for title, year, cat, emoji, wiki in cands:
         continue
     r = rapport[title]
     src = SOURCES.get(title) or ("fr:" + r["article"])
-    out.append({"title": TITRES.get(title, title), "year": year, "cat": cat,
+    out.append({"title": TITRES.get(title, title), "year": year, "cat": RECLASSER.get(title, cat),
                 "emoji": EMOJIS.get(title, emoji), "src": src})
+assert all(t in {c[0] for c in cands} for t in RECLASSER), "RECLASSER : titre inconnu"
+
+# Cinéma, jeux vidéo et consoles, champions de League of Legends, mangas et animes (15/11/2026) :
+# vérifiés par data/verifier-ecrans.py (rapport-ecrans.json), puis à la main pour les cas à revoir.
+# Écartées avant d'entrer dans candidates-ecrans.json :
+#   Baldur's Gate 3 : accès anticipé en 2020, version complète en 2023 ; « sortie » prêtait à discussion.
+#   Anime Solo Leveling : diffusé en janvier 2024, mais premier épisode projeté en salles en décembre 2023.
+#   Autant en emporte le vent, Casablanca, Le Corniaud, Halo, Saint Seiya… : écartés pour ne pas
+#   doubler une autre carte du même thème la même année (ou une date de sortie discutée, pour Casablanca).
+ECARTEES_ECRANS = {}
+SOURCES_ECRANS = {}
+# Cartes que le script n'a pas pu marquer « OK » seul, vérifiées à la main (rapport-ecrans.json) :
+VERIFIEES_A_LA_MAIN = {
+    "Sortie du premier film Avengers": "article : « sorti en 2012 » ; Wikidata donne 2012 pour toutes les sorties en salles (un 2011 isolé)",
+    "Sortie de Candy Crush Saga": "Wikidata : sortie le 12/04/2012",
+    "Premier épisode de l'anime Code Geass au Japon": "article : « broadcast in Japan on MBS from October 2006 »",
+    "Premier épisode de l'anime One Punch Man au Japon": "article : « aired in Japan on TV Tokyo […] from October 5 to December 21, 2015 »",
+    "Premier épisode de l'anime Spy × Family au Japon": "Wikidata : début de diffusion le 09/04/2022",
+}
+ecrans = json.load(open("data/candidates-ecrans.json", encoding="utf-8"))
+rapport_e = {r["card"]: r for r in json.load(open("data/rapport-ecrans.json", encoding="utf-8"))}
+for title, year, cat, emoji, ref in ecrans:
+    if title in ECARTEES_ECRANS:
+        continue
+    r = rapport_e[title]
+    assert r["status"] == "OK" or title in VERIFIEES_A_LA_MAIN, title
+    out.append({"title": title, "year": year, "cat": cat, "emoji": emoji, "src": SOURCES_ECRANS.get(title, ref)})
 
 out.sort(key=lambda c: (c["year"], c["title"]))
 for i, c in enumerate(out):
     c["id"] = i + 1
 
 lines = ["// Généré par data/construire.py à partir de data/candidates.json — ne pas modifier à la main.",
-         "// Chaque date a été vérifiée sur Wikidata et/ou une phrase datée de l'article cité dans `src`.",
+         "// Chaque date a été vérifiée sur Wikidata et/ou une phrase datée de l'article cité dans `src` (lol: : wiki League of Legends).",
          "import type { CardFamily } from '../shared/protocol';", "",
          "export interface CardData { id: number; title: string; year: number; cat: string; family: CardFamily; emoji: string; src: string }", "",
          "export const CARDS: CardData[] = ["]

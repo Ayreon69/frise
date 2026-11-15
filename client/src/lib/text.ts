@@ -33,6 +33,9 @@ export const FAMILY_NAME: Record<CardFamily, string> = {
   histoire: 'Histoire',
   culture: 'Arts et culture',
   loisirs: 'Sport et loisirs',
+  cinema: 'Cinéma',
+  jeuxvideo: 'Jeux vidéo et consoles',
+  animes: 'Mangas et animes',
 };
 
 export const FAMILY_SHORT: Record<CardFamily, string> = {
@@ -41,6 +44,9 @@ export const FAMILY_SHORT: Record<CardFamily, string> = {
   histoire: 'Histoire',
   culture: 'Culture',
   loisirs: 'Loisirs',
+  cinema: 'Cinéma',
+  jeuxvideo: 'Jeu vidéo',
+  animes: 'Manga, anime',
 };
 
 /** L'époque d'une date : elle donne sa couleur au ruban de la frise. */

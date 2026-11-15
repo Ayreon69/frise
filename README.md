@@ -20,7 +20,7 @@ Inspiré des jeux de frise chronologique (création de fans, non officielle) : n
 
 Sont des choix de ce jeu :
 
-- **Cinq thèmes** (inventions, sciences et espace, histoire, arts et culture, sport et loisirs) que l'hôte peut retirer, et un nombre de cartes en main réglable de 3 à 6.
+- **Huit thèmes** (inventions, sciences et espace, histoire, arts et culture, sport et loisirs, cinéma, jeux vidéo et consoles, mangas et animes) que l'hôte peut retirer, et un nombre de cartes en main réglable de 3 à 6.
 - **Le temps par tour est réglable** (30, 60 ou 90 secondes, ou sans limite) ; le temps écoulé, le pilote automatique pose une carte à ta place.
 - **La pioche vide se refait** avec les cartes ratées, mélangées.
 - **Un joueur absent plus de 20 secondes est remplacé par le pilote automatique** jusqu'à son retour.
@@ -28,12 +28,21 @@ Sont des choix de ce jeu :
 
 ## Les cartes
 
-263 cartes, de la bataille de Marathon (490 av. J.-C.) à aujourd'hui. **Chaque date a été vérifiée une par une** :
+386 cartes, de la bataille de Marathon (490 av. J.-C.) à aujourd'hui. **Chaque date a été vérifiée une par une** :
 
 - par la date que donne Wikidata pour l'événement et/ou par une phrase datée de l'article Wikipédia (en français, sinon en anglais) cité pour chaque carte ;
 - une carte dont la date prête à discussion (deux dates selon les sources, un événement étalé sur plusieurs années) est reformulée pour ne viser qu'un seul moment, ou écartée.
 
-La liste, ses sources et les décisions prises carte par carte sont dans `data/` (`candidates.json`, `rapport.json`, `construire.py`, qui produit `server/cards.ts`).
+Repères de date des familles ajoutées le 15/11/2026 :
+
+- **Cinéma** : l'année de la première sortie du film (la plus ancienne date de sortie sur Wikidata, confirmée par l'article) ;
+- **Jeux vidéo** : la première sortie, tous pays confondus ; **consoles** : la première sortie, avec le pays sur la carte quand les autres pays l'ont reçue plus tard (« au Japon », « aux États-Unis ») ;
+- **Champions de League of Legends** : leur arrivée dans le jeu, d'après le wiki League of Legends (`lol:` dans la source), qui reprend les notes de mise à jour ;
+- **Animes** : la première diffusion au Japon, écrite sur la carte (« Premier épisode de l'anime … au Japon ») ; pour Hunter x Hunter, la toute première série (1999), pas celle de 2011.
+
+Les films, jeux vidéo et mangas du premier paquet ont rejoint ces familles. Sport et loisirs garde 20 cartes : seul, ce thème se joue à deux avec 3 ou 4 cartes en main.
+
+La liste, ses sources et les décisions prises carte par carte sont dans `data/` (`candidates.json`, `rapport.json`, `candidates-ecrans.json`, `rapport-ecrans.json`, `verifier-ecrans.py`, `construire.py`, qui produit `server/cards.ts`).
 
 ## Les bots
 

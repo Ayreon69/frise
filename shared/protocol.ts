@@ -5,8 +5,8 @@
 export const MIN_PLAYERS = 2;
 export const MAX_PLAYERS = 8;
 
-/** Les cinq familles de cartes : l'hôte peut en retirer. */
-export const FAMILIES = ['inventions', 'sciences', 'histoire', 'culture', 'loisirs'] as const;
+/** Les huit familles de cartes : l'hôte peut en retirer. */
+export const FAMILIES = ['inventions', 'sciences', 'histoire', 'culture', 'loisirs', 'cinema', 'jeuxvideo', 'animes'] as const;
 export type CardFamily = (typeof FAMILIES)[number];
 
 /** Secondes par tour ; 0 : sans limite. */

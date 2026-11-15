@@ -45,7 +45,7 @@ describe('les cartes', () => {
       expect(c.title.length).toBeGreaterThan(5);
       expect(c.title.length).toBeLessThanOrEqual(70);
       expect(c.emoji.length).toBeGreaterThan(0);
-      expect(c.src).toMatch(/^(fr|en):/);
+      expect(c.src).toMatch(/^(fr|en|lol):/);
       expect(FAMILIES).toContain(c.family);
       expect(ids.has(c.id)).toBe(false);
       expect(titles.has(c.title)).toBe(false);
@@ -55,8 +55,11 @@ describe('les cartes', () => {
   });
 
   it('chaque famille a assez de cartes pour une petite table', () => {
-    for (const f of FAMILIES) expect(poolSize([f])).toBeGreaterThanOrEqual(25);
-    expect(enoughCards(2, 0, ['loisirs'])).toBe(true);
+    // Sport et loisirs n'a plus que 20 cartes depuis le départ des jeux vidéo vers leur propre famille :
+    // seule, elle se joue à deux avec 3 ou 4 cartes en main. Toutes les autres se jouent seules à deux, selon la règle.
+    for (const f of FAMILIES) expect(poolSize([f])).toBeGreaterThanOrEqual(f === 'loisirs' ? 20 : 25);
+    expect(enoughCards(2, 3, ['loisirs'])).toBe(true);
+    for (const f of ['cinema', 'jeuxvideo', 'animes'] as const) expect(enoughCards(2, 0, [f])).toBe(true);
     expect(enoughCards(8, 6, ['loisirs'])).toBe(false);
     expect(enoughCards(8, 0, ALL)).toBe(true);
   });
