@@ -28,7 +28,7 @@ Sont des choix de ce jeu :
 
 ## Les cartes
 
-450 cartes, des premiers Jeux olympiques antiques (776 av. J.-C.)  à aujourd'hui, dont 158 avant 1900. **Chaque date a été vérifiée une par une** :
+450 cartes, des premiers Jeux olympiques antiques (776 av. J.-C.) à aujourd'hui, dont 158 avant 1900. **Chaque date a été vérifiée une par une** :
 
 - par la date que donne Wikidata pour l'événement et/ou par une phrase datée de l'article Wikipédia (en français, sinon en anglais) cité pour chaque carte ;
 - une carte dont la date prête à discussion (deux dates selon les sources, un événement étalé sur plusieurs années) est reformulée pour ne viser qu'un seul moment, ou écartée.
