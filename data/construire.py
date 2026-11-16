@@ -56,6 +56,9 @@ SOURCES = {
     "Mort de Louis XIV": "fr:Louis XIV",
 }
 TITRES = {  # reformulations plus exactes
+    "Franklin attire la foudre avec un cerf-volant": "Franklin raconte son expérience du cerf-volant sous l'orage",
+    "Dunlop invente le pneu à chambre à air": "Dunlop dépose le brevet du pneu gonflable",
+    "La peste noire arrive à Marseille": "La peste noire atteint Marseille",
     "Le disque compact arrive en magasin": "Les premiers disques compacts sont mis en vente",
     "Alexeï Pajitnov crée Tetris": "Alexeï Pajitnov crée la première version de Tetris",
 }
@@ -138,15 +141,41 @@ VERIFIEES_A_LA_MAIN = {
     "Premier épisode de l'anime Code Geass au Japon": "article : « broadcast in Japan on MBS from October 2006 »",
     "Premier épisode de l'anime One Punch Man au Japon": "article : « aired in Japan on TV Tokyo […] from October 5 to December 21, 2015 »",
     "Premier épisode de l'anime Spy × Family au Japon": "Wikidata : début de diffusion le 09/04/2022",
+    # Avant 1900 (rapport-avant1900.json, puis phrases.py sur a-revoir-avant1900*.json) :
+    "Fondation de Rome, selon la légende": "Wikidata : 753 av. J.-C., date de la tradition, dite sur la carte",
+    "Mort de Socrate": "Wikidata : mort en 399 av. J.-C.",
+    "Auguste devient le premier empereur romain": "article : « Titré Augustus par le Sénat romain en 27 av. J.-C. »",
+    "Attila battu aux champs Catalauniques": "article : « La bataille des champs Catalauniques oppose en 451 […] »",
+    "Bataille de Poitiers, Charles Martel arrête les Omeyyades": "Wikidata : 732",
+    "Hugues Capet devient roi de France": "article : « élu et sacré roi des Francs en 987 »",
+    "Le pape Urbain II appelle à la première croisade": "article : « Le concile de Clermont de 1095 et l'appel à la croisade »",
+    "Marco Polo part pour la Chine": "article : « Marco Polo part en 1271 avec ses père et oncle »",
+    "La peste noire arrive à Marseille": "article : « Depuis Marseille, en novembre 1347 »",
+    "Michel-Ange achève le plafond de la chapelle Sixtine": "article : « inaugurée par le pape Jules II le 31 octobre 1512 »",
+    "Franklin attire la foudre avec un cerf-volant": "article : lettre publiée dans la Pennsylvania Gazette le 19 octobre 1752",
+    "James Cook atteint l'Australie": "article : « On 19 April 1770, Point Hicks was sighted »",
+    "Drais invente la draisienne, ancêtre du vélo": "Wikidata : invention en 1817",
+    "Victoria devient reine du Royaume-Uni": "article : « reine du Royaume-Uni […] du 20 juin 1837 »",
+    "Napoléon III devient empereur des Français": "article : « Le 2 décembre 1852, Louis-Napoléon Bonaparte devient l'Empereur Napoléon III »",
+    "Big Ben sonne pour la première fois": "article : « This new bell first chimed on 11 July 1859 »",
+    "Edison présente son ampoule électrique": "Wikidata : invention de la lampe à incandescence en 1879",
+    "Dunlop invente le pneu à chambre à air": "article : « dépose le brevet du pneu à air avec valve le 7 décembre 1888 »",
+    "Destruction de Carthage par Rome": "article : « In early 146 BC the Romans […] destroyed the city »",
+    "Luther publie ses 95 thèses": "article : « written in 1517 by Martin Luther »",
+    "Cortés s'empare de Tenochtitlan, capitale aztèque": "article : « Le siège de Tenochtitlán par Hernán Cortés en 1521 (30 mai-13 août) »",
+    "Premier match international de football, Écosse–Angleterre": "article : « The 1872 association football match […] the first international »",
 }
-ecrans = json.load(open("data/candidates-ecrans.json", encoding="utf-8"))
-rapport_e = {r["card"]: r for r in json.load(open("data/rapport-ecrans.json", encoding="utf-8"))}
-for title, year, cat, emoji, ref in ecrans:
-    if title in ECARTEES_ECRANS:
-        continue
-    r = rapport_e[title]
-    assert r["status"] == "OK" or title in VERIFIEES_A_LA_MAIN, title
-    out.append({"title": title, "year": year, "cat": cat, "emoji": emoji, "src": SOURCES_ECRANS.get(title, ref)})
+# Écartée avant 1900 : Inauguration du Colisée (80 selon l'article, 81 ou 82 selon Wikidata).
+# 16/11/2026 : cartes d'avant 1900 (le paquet penchait vers le XXe siècle), même vérification.
+for nom in ("ecrans", "avant1900"):
+    lot = json.load(open(f"data/candidates-{nom}.json", encoding="utf-8"))
+    rapport_e = {r["card"]: r for r in json.load(open(f"data/rapport-{nom}.json", encoding="utf-8"))}
+    for title, year, cat, emoji, ref in lot:
+        if title in ECARTEES_ECRANS:
+            continue
+        r = rapport_e[title]
+        assert r["status"] == "OK" or title in VERIFIEES_A_LA_MAIN, title
+        out.append({"title": TITRES.get(title, title), "year": year, "cat": cat, "emoji": emoji, "src": SOURCES_ECRANS.get(title, ref)})
 
 out.sort(key=lambda c: (c["year"], c["title"]))
 for i, c in enumerate(out):

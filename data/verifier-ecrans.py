@@ -1,6 +1,7 @@
 """Vérifie les cartes des familles Cinéma, Jeux vidéo et Mangas et animes.
 
 Usage : python data/verifier-ecrans.py data/candidates-ecrans.json data/rapport-ecrans.json
+        python data/verifier-ecrans.py data/candidates-avant1900.json data/rapport-avant1900.json
 Entrée : liste de [carte, année, cat, emoji, "fr:Article" | "en:Article" | "lol:Champion"].
 
 - Articles Wikipédia : l'élément Wikidata (sa description, pour s'assurer qu'on vise la bonne
@@ -16,7 +17,11 @@ Entrée : liste de [carte, année, cat, emoji, "fr:Article" | "en:Article" | "lo
 import json, re, sys, time, urllib.parse, urllib.request
 
 UA = {"User-Agent": "FriseCardCheck/1.0 (jeu entre amis; verification de dates)"}
-PROPS = {"P577": "sortie", "P580": "début", "P571": "création", "P1191": "première"}
+PROPS = {"P577": "sortie", "P580": "début", "P571": "création", "P1191": "première",
+         "P585": "date", "P575": "découverte", "P570": "mort", "P1619": "ouverture", "P729": "mise en service", "P582": "fin"}
+# Familles où l'on vise la première sortie : la plus ancienne date doit tomber sur la carte. Pour les autres
+# cartes (événements, avant 1900), l'année doit figurer parmi les dates précises de l'élément Wikidata.
+ECRANS = {"film", "jeuvideo", "console", "anime"}
 PAYS = {"Q17": "Japon", "Q30": "États-Unis", "Q142": "France", "Q46": "Europe", "Q49": "Amérique du Nord",
         "Q145": "Royaume-Uni", "Q183": "Allemagne", "Q408": "Australie", "Q13780930": "monde", "Q15": "Afrique"}
 
@@ -58,7 +63,7 @@ def dates(qid):
                 continue
             where = [PAYS.get(q["datavalue"]["value"]["id"], q["datavalue"]["value"]["id"])
                      for q in c.get("qualifiers", {}).get("P291", []) if "datavalue" in q]
-            out.append({"prop": label, "year": int(m.group(2)), "date": f"{m.group(2)}-{m.group(3)}-{m.group(4)}",
+            out.append({"prop": label, "year": int(m.group(2)) * (-1 if m.group(1) == "-" else 1), "date": f"{m.group(2)}-{m.group(3)}-{m.group(4)}",
                         "precision": v.get("precision"), "where": where})
     return desc, out
 
@@ -111,9 +116,14 @@ def main(src, dst):
             firsts = [x["year"] for x in ds if (x["precision"] or 0) >= 9]
         r["earliest"] = min(firsts) if firsts else None
         sents = re.split(r"(?<=[.!?])\s+", a["text"])
-        hits = [s.strip().replace("\n", " ")[:240] for s in sents if re.search(r"\b%d\b" % year, s)]
+        motif = (r"\b%d\b" % year) if year > 0 else (r"\b%d\b[^.]{0,40}(av|avant)" % -year)
+        hits = [s.strip().replace("\n", " ")[:240] for s in sents if re.search(motif, s)]
         r["phrases"] = hits[:3]
-        wd, tx = r["earliest"] == year, bool(hits)
+        if cat in ECRANS:
+            wd = r["earliest"] == year
+        else:
+            wd = year in [x["year"] for x in ds if (x["precision"] or 0) >= 9]
+        tx = bool(hits)
         r["status"] = "OK" if wd and tx else ("WD" if wd else ("TEXTE" if tx else "A-VOIR"))
         report.append(r)
         print(r["status"], title, year, "|", a["title"], "|", desc, "| plus ancienne :", r["earliest"])

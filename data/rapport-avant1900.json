@@ -1,0 +1,1594 @@
+[
+ {
+  "card": "Premiers Jeux olympiques de l'Antiquité, selon la tradition",
+  "year": -776,
+  "src": "fr:Jeux olympiques antiques",
+  "article": "Jeux olympiques antiques",
+  "description": "évènement sportif et religieux grec dans l'Antiquité",
+  "dates": [
+   {
+    "prop": "création",
+    "year": -776,
+    "date": "776-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": -776,
+  "phrases": [
+   "(en 776 av."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Fondation de Rome, selon la légende",
+  "year": -753,
+  "src": "fr:Fondation de Rome",
+  "article": "Fondation de Rome",
+  "description": "aspects historiques de la naissance de la ville de Rome (VIIIe siècle av. J.-C.)",
+  "dates": [
+   {
+    "prop": "date",
+    "year": -753,
+    "date": "753-04-21",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": -753,
+  "phrases": [],
+  "status": "WD"
+ },
+ {
+  "card": "Bataille des Thermopyles",
+  "year": -480,
+  "src": "fr:Bataille des Thermopyles",
+  "article": "Bataille des Thermopyles",
+  "description": "bataille des guerres médiques en 480 av. J.-C.",
+  "dates": [
+   {
+    "prop": "date",
+    "year": -480,
+    "date": "480-08-11",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "date",
+    "year": -480,
+    "date": "480-07-00",
+    "precision": 10,
+    "where": []
+   }
+  ],
+  "earliest": -480,
+  "phrases": [
+   "La bataille des Thermopyles, l'un des plus célèbres faits d'armes de l'histoire antique et des guerres médiques, oppose une alliance des cités grecques à l'Empire achéménide en août ou septembre 480 av.",
+   "Cette bataille devient l'un des symboles de la résistance grecque à l'envahisseur car, grâce à elle et malgré la prise d'Athènes par les Perses, les Grecs conservent leur indépendance après leurs triomphes à Salamine, en septembre 480 av."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Mort de Socrate",
+  "year": -399,
+  "src": "fr:Socrate",
+  "article": "Socrate",
+  "description": "philosophe de la Grèce antique",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": -399,
+    "date": "399-02-15",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": -399,
+    "date": "399-05-01",
+    "precision": 10,
+    "where": []
+   }
+  ],
+  "earliest": -399,
+  "phrases": [],
+  "status": "WD"
+ },
+ {
+  "card": "Hannibal franchit les Alpes avec ses éléphants",
+  "year": -218,
+  "src": "fr:Traversée des Alpes par Hannibal",
+  "article": "Passage des Alpes par Hannibal",
+  "description": "marche carthaginoise vers Rome lors de la deuxième guerre punique",
+  "dates": [
+   {
+    "prop": "début",
+    "year": -218,
+    "date": "218-05-00",
+    "precision": 10,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": -218,
+    "date": "218-09-00",
+    "precision": 10,
+    "where": []
+   }
+  ],
+  "earliest": -218,
+  "phrases": [
+   "Le passage des Alpes par Hannibal est une étape majeure de la marche vers l’Italie de l’armée d’Hannibal Barca, réalisée à la fin de l’année 218 av."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Destruction de Carthage par Rome",
+  "year": -146,
+  "src": "fr:Siège de Carthage (troisième guerre punique)",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Révolte de Spartacus",
+  "year": -73,
+  "src": "fr:Troisième guerre servile",
+  "article": "Troisième guerre servile",
+  "description": "dernière d’une série de rébellions d’esclaves contre la République romaine (73-71 av. J.-C.)",
+  "dates": [
+   {
+    "prop": "début",
+    "year": -73,
+    "date": "73-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": -71,
+    "date": "71-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": -73,
+  "phrases": [
+   "La troisième guerre servile dure entre 73 et 71 av.",
+   "Entre 73 et 71 av."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Mort de Cléopâtre",
+  "year": -30,
+  "src": "fr:Cléopâtre VII",
+  "article": "Cléopâtre VII",
+  "description": "reine d'Égypte, de 51 à 30 av. J.-C.",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": -30,
+    "date": "30-08-12",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": -30,
+  "phrases": [
+   "à Alexandrie (Égypte) et morte dans la même ville le 12 août 30 av.",
+   "Elle règne sur l'Égypte entre 51 et 30 av."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Auguste devient le premier empereur romain",
+  "year": -27,
+  "src": "fr:Auguste",
+  "article": "Auguste",
+  "description": "premier empereur romain de 27 av. J.–C. à 14",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 14,
+    "date": "14-08-19",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": 14,
+    "date": "14-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 14,
+  "phrases": [
+   "à Nola, près de Naples, est le premier empereur romain, régnant du 16 janvier 27 av.",
+   "Titré Augustus par le Sénat romain en 27 av.",
+   "Devenu Auguste en janvier 27 av."
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Inauguration du Colisée",
+  "year": 80,
+  "src": "fr:Colisée",
+  "article": "Colisée",
+  "description": "monument de la ville de Rome",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 82,
+    "date": "82-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "ouverture",
+    "year": 81,
+    "date": "81-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 81,
+  "phrases": [
+   "69-79), et s'est achevée en 80 apr.",
+   "Pouvant accueillir probablement entre 50 000 et 80 000 spectateurs, le Colisée, témoin de l'évergétisme impérial, a été utilisé pour les venationes (combats d'animaux sauvages), les munera (combats de gladiateurs) et autres spectacles publi",
+   "Pour son inauguration, en 80 apr."
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "L'édit de Milan autorise le christianisme",
+  "year": 313,
+  "src": "fr:Édit de Milan",
+  "article": "Édit de Milan",
+  "description": "édit de tolérance envers les chrétiens promulgué en 313",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 313,
+    "date": "313-06-00",
+    "precision": 10,
+    "where": []
+   }
+  ],
+  "earliest": 313,
+  "phrases": [
+   "L’édit de Milan est le nom traditionnel d'un rescrit conservé sous forme de deux lettres circulaires adressées à l'été 313 aux gouverneurs des provinces orientales de Bithynie et de Palestine par les coempereurs romains Licinius et Constant"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Les Wisigoths pillent Rome",
+  "year": 410,
+  "src": "fr:Sac de Rome (410)",
+  "article": "Sac de Rome (410)",
+  "description": "événement militaire en 410",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 410,
+    "date": "410-08-24",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "date",
+    "year": 410,
+    "date": "410-08-24",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 410,
+    "date": "410-08-27",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 410,
+  "phrases": [
+   "Le sac de Rome a lieu du 24 au 27 août 410."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Attila battu aux champs Catalauniques",
+  "year": 451,
+  "src": "fr:Bataille des champs Catalauniques",
+  "article": "Bataille des champs Catalauniques",
+  "description": "page d'homonymie de Wikimédia",
+  "dates": [],
+  "earliest": null,
+  "phrases": [
+   "Bataille des champs Catalauniques (Châlons-en-Champagne) peut désigner :  la bataille des champs Catalauniques (274), bataille entre les forces romaines de l'empereur Aurélien et celles de l'empereur gaulois Tetricus Ier ; la bataille des c"
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "L'Hégire : Mahomet quitte La Mecque pour Médine",
+  "year": 622,
+  "src": "fr:Hégire",
+  "article": "Hégire",
+  "description": "départ de Mahomet de La Mecque vers Yathrib ; commencement du calendrier musulman",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 622,
+    "date": "622-09-13",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "date",
+    "year": 622,
+    "date": "622-09-13",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "date",
+    "year": 622,
+    "date": "622-09-20",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 622,
+    "date": "622-09-27",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 622,
+  "phrases": [
+   "L'hégire (en arabe : هِجْرَة, hijra, « émigration », « exil », « rupture », « séparation ») désigne traditionnellement le départ de Mahomet et de plusieurs de ses compagnons de La Mecque vers l'oasis de Yathrib, ancien nom de Médine, en 622",
+   "Pour marquer l'importance de cet événement, le premier jour de l'année lunaire de l'hégire, correspondant au 16 juillet 622, a été décrété comme premier jour du calendrier hégirien."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Bataille de Poitiers, Charles Martel arrête les Omeyyades",
+  "year": 732,
+  "src": "fr:Bataille de Poitiers (732)",
+  "article": "Bataille de Poitiers (732)",
+  "description": "bataille opposant les Francs aux Omeyyades en 732",
+  "dates": [
+   {
+    "prop": "date",
+    "year": 732,
+    "date": "732-10-10",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 732,
+  "phrases": [],
+  "status": "WD"
+ },
+ {
+  "card": "Hugues Capet devient roi de France",
+  "year": 987,
+  "src": "fr:Hugues Capet",
+  "article": "Hugues Capet",
+  "description": "roi des Francs de 987 à 996, fondateur de la dynastie capétienne",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 996,
+    "date": "996-10-24",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 996,
+  "phrases": [
+   "Il a été duc des Francs (960-987), puis roi des Francs (987-996).",
+   "C'est avec le soutien de l'Église, et en particulier de l'évêque Adalbéron de Reims et de Gerbert d'Aurillac, tous deux proches de la cour ottonienne, qu'il est enfin élu et sacré roi des Francs en 987.",
+   "La Francia occidentalis se trouve définitivement séparée de l'Empire et le premier Capétien, comme ses successeurs, met toute son énergie à créer une dynastie pérenne en consolidant son pouvoir sur son domaine et en y associant son fils Rob"
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Le pape Urbain II appelle à la première croisade",
+  "year": 1095,
+  "src": "fr:Concile de Clermont",
+  "article": "Concile de Clermont",
+  "description": "page d'homonymie de Wikimédia",
+  "dates": [],
+  "earliest": null,
+  "phrases": [
+   "Concile de Clermont peut désigner :  le concile de Clermont (535) ; le concile de Clermont (549 ou 550), 2e concile d'Auvergne, tenu par dix évêques (les canons du Ve concile d'Orléans y furent adoptés) ; le concile de Clermont (1095), qui "
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Début de la construction de Notre-Dame de Paris",
+  "year": 1163,
+  "src": "fr:Cathédrale Notre-Dame de Paris",
+  "article": "Cathédrale Notre-Dame de Paris",
+  "description": "cathédrale située à Paris, en France",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1163,
+    "date": "1163-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "ouverture",
+    "year": 2024,
+    "date": "2024-12-07",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1163,
+  "phrases": [
+   "Sa construction est lancée en 1163 sous l'impulsion de l'évêque Maurice de Sully, et s'étale sur près de deux siècles, pour se terminer au milieu du XIVe siècle vers 1345."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Mort de Saint Louis devant Tunis",
+  "year": 1270,
+  "src": "fr:Louis IX",
+  "article": "Louis IX",
+  "description": "roi de France de 1226 à 1270 canonisé par l'Église catholique",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1270,
+    "date": "1270-08-25",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1270,
+  "phrases": [
+   "Louis IX, parfois dit « le Prud'homme » et plus communément appelé Saint Louis, est un roi de France capétien, né le 25 avril 1214 à Poissy et mort le 25 août 1270 à Carthage, près de Tunis.",
+   "Enfin, en 1270, il repart en Tunisie pour la huitième croisade, au cours de laquelle il meurt de maladie."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Marco Polo part pour la Chine",
+  "year": 1271,
+  "src": "fr:Marco Polo",
+  "article": "Marco Polo",
+  "description": "explorateur et marchand vénitien",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1324,
+    "date": "1324-01-08",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1324,
+  "phrases": [
+   "À l'âge de 17 ans, Marco Polo part en 1271 avec ses père et oncle, les frères Niccolò et Matteo Polo, retournant en Chine, en suivant les routes de la soie et des épices jusqu'à Pékin, pendant 3 ans et demi, pour retrouver le Grand Khan Kub"
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Début de la guerre de Cent Ans",
+  "year": 1337,
+  "src": "fr:Guerre de Cent Ans",
+  "article": "Guerre de Cent Ans",
+  "description": "série de conflits opposant la France et l'Angleterre de 1337 à 1453",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 1337,
+    "date": "1337-05-24",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 1453,
+    "date": "1453-10-09",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1337,
+  "phrases": [
+   "La guerre de Cent Ans (en anglais : Hundred Years' War) est une série de conflits armés entrecoupés de trêves opposant le royaume d'Angleterre de la dynastie Plantagenêt et le royaume de France de la dynastie des Valois de 1337 à 1453.",
+   "La phase édouardienne se déroule de 1337 à 1360 en faveur de l'Angleterre qui, sous la direction du roi d'Angleterre et de son fils Édouard de Woodstock, dit le « Prince Noir », remporte de nombreuses victoires contre la France, notamment l"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "La peste noire arrive à Marseille",
+  "year": 1347,
+  "src": "fr:Peste noire",
+  "article": "Peste noire",
+  "description": "pandémie de peste bubonique au XIVe siècle",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 1346,
+    "date": "1346-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 1352,
+    "date": "1352-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1346,
+  "phrases": [
+   "En Europe, elle fait environ 25 millions de victimes en cinq ou six ans (1347-1352), soit entre 30 et 60 % de la population."
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Bataille d'Azincourt",
+  "year": 1415,
+  "src": "fr:Bataille d'Azincourt",
+  "article": "Bataille d'Azincourt",
+  "description": "bataille de la guerre de Cent Ans",
+  "dates": [
+   {
+    "prop": "date",
+    "year": 1415,
+    "date": "1415-10-25",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1415,
+  "phrases": [
+   "La bataille d'Azincourt (en anglais : Battle of Agincourt) se déroule le 25 octobre 1415 près du village d'Azincourt, dans le nord de la France.",
+   "L'armée anglaise débarque le 13 août au lieu-dit « Chef-de-Caux », près de la ville d'Harfleur qu'elle parvient à prendre au bout d'un mois de siège (18 août – 22 septembre 1415), s'assurant ainsi d'une tête de pont en Normandie."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Michel-Ange achève le plafond de la chapelle Sixtine",
+  "year": 1512,
+  "src": "fr:Plafond de la chapelle Sixtine",
+  "article": "Plafond de la chapelle Sixtine",
+  "description": "cycle of frescoes by Michelangelo",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1508,
+    "date": "1508-01-01",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1508,
+  "phrases": [
+   "Le plafond de la chapelle Sixtine comprend principalement une fresque réalisée par Michel-Ange entre 1508 et 1512 et inaugurée par le pape Jules II le 31 octobre 1512 ; c'est un chef-d'œuvre de la peinture de la Renaissance italienne consid"
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Luther publie ses 95 thèses",
+  "year": 1517,
+  "src": "fr:Quatre-vingt-quinze thèses",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Mort de Léonard de Vinci",
+  "year": 1519,
+  "src": "fr:Léonard de Vinci",
+  "article": "Léonard de Vinci",
+  "description": "peintre, sculpteur, architecte et ingénieur, théoricien de l'art et chercheur scientifique toscan",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1519,
+    "date": "1519-05-02",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": 1519,
+    "date": "1519-01-01",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1519,
+  "phrases": [
+   "Léonard de Vinci (italien : Leonardo di ser Piero da Vinci, dit Leonardo da Vinci), né le 14 avril 1452 du calendrier actuel — le 15 avril 1452, date de l'époque — à Vinci (Toscane) et mort le 2 mai 1519 à Amboise (Touraine), est un peintre",
+   "Léonard meurt subitement au Clos Lucé en 1519."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Cortés s'empare de Tenochtitlan, capitale aztèque",
+  "year": 1521,
+  "src": "fr:Chute de Tenochtitlan",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Ordonnance de Villers-Cotterêts : le français, langue officielle",
+  "year": 1539,
+  "src": "fr:Ordonnance de Villers-Cotterêts",
+  "article": "Ordonnance de Villers-Cotterêts",
+  "description": "premier texte de loi imposant la langue française dans les décisions de justice",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1539,
+    "date": "1539-08-15",
+    "precision": 10,
+    "where": []
+   }
+  ],
+  "earliest": 1539,
+  "phrases": [
+   "L'ordonnance d'août 1539 sur le fait de la justice, dite l'ordonnance de Villers-Cotterêts, aussi appelée l'ordonnance Guillemine, est un texte normatif édicté par le roi de France François Ier, entre le 10 et le 25 août 1539 à Villers-Cott"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Assassinat d'Henri IV par Ravaillac",
+  "year": 1610,
+  "src": "fr:Assassinat d'Henri IV",
+  "article": "Assassinat d'Henri IV",
+  "description": "assassinat d'Henri IV et ses conséquences",
+  "dates": [
+   {
+    "prop": "date",
+    "year": 1610,
+    "date": "1610-05-14",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1610,
+  "phrases": [
+   "Le roi meurt sous les coups de couteau de François Ravaillac le 14 mai 1610.",
+   "Le Dauphin, Louis XIII, n'a pas encore neuf ans et la reine Marie de Médicis, veuve d'Henri IV, assure une régence de 1610 à 1614, qui marque une inflexion dans la politique du royaume au sein duquel son époux avait ramené la paix civile ap"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Mort de William Shakespeare",
+  "year": 1616,
+  "src": "fr:William Shakespeare",
+  "article": "William Shakespeare",
+  "description": "dramaturge, poète et acteur anglais (1564–1616)",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1616,
+    "date": "1616-04-23",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": 1616,
+    "date": "1616-05-03",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1616,
+  "phrases": [
+   "William Shakespeare est un dramaturge, poète et acteur anglais né le 23 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Richelieu fonde l'Académie française",
+  "year": 1635,
+  "src": "fr:Académie française",
+  "article": "Académie française",
+  "description": "organisme savant français faisant autorité sur les questions relatives à la langue française",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1635,
+    "date": "1635-02-22",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1635,
+    "date": "1635-01-29",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1635,
+    "date": "1635-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1635,
+  "phrases": [
+   "L'Académie française est fondée en 1634 et officialisée en 1635 par le cardinal de Richelieu.",
+   "La mission qui lui est assignée à l’origine, précisée par lettres patentes de Louis XIII le 29 janvier 1635, est de travailler à « donner des règles certaines à notre langue et à la rendre pure, éloquente et capable de traiter les arts et l"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Pascal invente la Pascaline, sa machine à calculer",
+  "year": 1642,
+  "src": "fr:Pascaline",
+  "article": "Pascaline",
+  "description": "calculatrice mécanique inventée par Blaise Pascal",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1642,
+    "date": "1642-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1642,
+  "phrases": [
+   "C'est en 1642, à l'âge de dix-neuf ans, qu'il en conçut l’idée, voulant soulager la tâche de son père qui venait d’être nommé premier président à la Cour des aides de Normandie, à Rouen, par le cardinal de Richelieu et qui devait remettre e"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Première du Bourgeois gentilhomme de Molière",
+  "year": 1670,
+  "src": "fr:Le Bourgeois gentilhomme",
+  "article": "Le Bourgeois gentilhomme",
+  "description": "comédie-ballet de Molière-Lully-Beauchamp",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1671,
+    "date": "1671-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1670,
+    "date": "1670-10-14",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "première",
+    "year": 1670,
+    "date": "1670-10-14",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1670,
+  "phrases": [
+   "Elle est représentée pour la première fois le 14 octobre 1670, devant la cour de Louis XIV, au château de Chambord par la troupe de Molière."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Mort de Molière",
+  "year": 1673,
+  "src": "fr:Molière",
+  "article": "Molière",
+  "description": "dramaturge et acteur français (1622–1673)",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1673,
+    "date": "1673-02-17",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": 1673,
+    "date": "1673-02-16",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1673,
+  "phrases": [
+   "Jean-Baptiste Poquelin, dit Molière, baptisé le 15 janvier 1622 à l'église Saint-Eustache de Paris et mort le 17 février 1673 à son domicile de la rue de Richelieu, est le plus célèbre auteur de comédies de la langue française."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Première de Phèdre de Racine",
+  "year": 1677,
+  "src": "fr:Phèdre (Racine)",
+  "article": "Phèdre (Racine)",
+  "description": "tragédie de Jean Racine",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1667,
+    "date": "1667-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1677,
+    "date": "1677-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "première",
+    "year": 1677,
+    "date": "1677-01-01",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1667,
+  "phrases": [
+   "Phèdre est une tragédie en cinq actes et en vers de Jean Racine créée sous le titre de Phèdre et Hippolyte, le 1er janvier 1677 au théâtre de l'Hôtel de Bourgogne à Paris."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Perrault publie ses contes (Cendrillon, Le Petit Chaperon rouge…)",
+  "year": 1697,
+  "src": "fr:Contes de ma mère l'Oye",
+  "article": "Les Contes de ma mère l'Oye",
+  "description": "œuvre littéraire",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1697,
+    "date": "1697-01-01",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1695,
+    "date": "1695-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1697,
+  "phrases": [
+   "Les Contes de ma mère l'Oye /le kɔ̃t də ma mɛʁ lwa/, sont un recueil de huit contes de fées de Charles Perrault paru le 11 janvier 1697, sous le titre Histoires ou contes du temps passé, avec des moralités, avec cet autre titre au dos : Con"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Pierre le Grand fonde Saint-Pétersbourg",
+  "year": 1703,
+  "src": "fr:Saint-Pétersbourg",
+  "article": "Saint-Pétersbourg",
+  "description": "ville de Russie",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1703,
+    "date": "1703-05-16",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1703,
+  "phrases": [
+   "Saint-Pétersbourg est fondée en 1703 par le tsar Pierre le Grand dans une région disputée depuis longtemps au royaume de Suède."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Parution de Robinson Crusoé",
+  "year": 1719,
+  "src": "fr:Robinson Crusoé",
+  "article": "Robinson Crusoé",
+  "description": "roman de Daniel Defoe, publié en 1719",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1719,
+    "date": "1719-04-25",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1719,
+  "phrases": [
+   "Robinson Crusoé est un roman d'aventures anglais de Daniel Defoe, publié en 1719."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Parution des Voyages de Gulliver",
+  "year": 1726,
+  "src": "fr:Les Voyages de Gulliver",
+  "article": "Les Voyages de Gulliver",
+  "description": "roman de Jonathan Swift",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1726,
+    "date": "1726-10-28",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1726,
+  "phrases": [
+   "Une version censurée et modifiée par son éditeur paraît pour la première fois en 1726 ; ce n’est qu’en 1735 qu’il paraît en version complète."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Franklin attire la foudre avec un cerf-volant",
+  "year": 1752,
+  "src": "fr:Benjamin Franklin",
+  "article": "Benjamin Franklin",
+  "description": "père fondateur des États-Unis d'Amérique, politicien, écrivain, philosophe, physicien, publiciste et imprimeur américain",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1790,
+    "date": "1790-04-17",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1790,
+  "phrases": [],
+  "status": "A-VOIR"
+ },
+ {
+  "card": "James Cook atteint l'Australie",
+  "year": 1770,
+  "src": "fr:James Cook",
+  "article": "James Cook",
+  "description": "navigateur, cartographe et explorateur britannique",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1779,
+    "date": "1779-02-14",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": 1779,
+    "date": "1779-01-01",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1779,
+  "phrases": [],
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Boston Tea Party",
+  "year": 1773,
+  "src": "fr:Boston Tea Party",
+  "article": "Boston Tea Party",
+  "description": "révolte politique en 1773 à Boston contre le Parlement britannique",
+  "dates": [
+   {
+    "prop": "date",
+    "year": 1773,
+    "date": "1773-12-16",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1773,
+  "phrases": [
+   "La Boston Tea Party est une révolte politique à Boston, la capitale de la province de la baie du Massachusetts, contre le Parlement britannique en 1773."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Herschel découvre la planète Uranus",
+  "year": 1781,
+  "src": "fr:Uranus (planète)",
+  "article": "Uranus (planète)",
+  "description": "septième planète du Système solaire par ordre d'éloignement du Soleil",
+  "dates": [
+   {
+    "prop": "découverte",
+    "year": 1781,
+    "date": "1781-03-13",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1781,
+  "phrases": [
+   "William Herschel l'observe pour la première fois le 13 mars 1781 et la confirmation qu'il s'agit d'une planète et non d'une comète est faite pendant les mois qui suivent."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Volta présente sa pile électrique",
+  "year": 1800,
+  "src": "fr:Pile voltaïque",
+  "article": "Pile voltaïque",
+  "description": "pile électrique",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1800,
+    "date": "1800-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "découverte",
+    "year": 1800,
+    "date": "1800-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1800,
+  "phrases": [
+   "Elle a été inventée par Alessandro Volta, qui publie un article à ce sujet en 1800."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Les États-Unis achètent la Louisiane à la France",
+  "year": 1803,
+  "src": "fr:Vente de la Louisiane",
+  "article": "Vente de la Louisiane",
+  "description": "cession en 1803 par la France de plus de 828 000 milles carrés (2 145 000 km2) de territoire aux États-Unis",
+  "dates": [
+   {
+    "prop": "date",
+    "year": 1803,
+    "date": "1803-04-30",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1803,
+  "phrases": [
+   "La vente de la Louisiane (en anglais : Louisiana Purchase « l'achat de la Louisiane ») est la cession en 1803 par la France – alors dirigée par Napoléon Bonaparte, Premier Consul – de plus de 828 000 milles carrés (2 145 000 km2) de territo"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Retraite de Russie de la Grande Armée",
+  "year": 1812,
+  "src": "fr:Campagne de Russie",
+  "article": "Campagne de Russie",
+  "description": "expédition militaire française menée par Napoléon Ier en 1812",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 1812,
+    "date": "1812-06-24",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 1812,
+    "date": "1812-12-14",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1812,
+  "phrases": [
+   "La campagne de Russie, également connue en Russie comme la guerre patriotique de 1812, est une campagne militaire menée par l’empereur Napoléon Ier en 1812 et lors de laquelle les troupes françaises ont envahi l'Empire russe.",
+   "La campagne de Russie a été relatée par Léon Tolstoï dans son célèbre roman historique Guerre et Paix, ainsi qu’évoquée par Piotr Ilitch Tchaïkovski dans son Ouverture 1812."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Drais invente la draisienne, ancêtre du vélo",
+  "year": 1817,
+  "src": "fr:Draisienne",
+  "article": "Draisienne",
+  "description": "véhicule précurseur du vélo",
+  "dates": [
+   {
+    "prop": "découverte",
+    "year": 1817,
+    "date": "1817-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1817,
+  "phrases": [],
+  "status": "WD"
+ },
+ {
+  "card": "Parution de Frankenstein de Mary Shelley",
+  "year": 1818,
+  "src": "fr:Frankenstein ou le Prométhée moderne",
+  "article": "Frankenstein ou le Prométhée moderne",
+  "description": "roman de Mary Shelley (1818)",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1818,
+    "date": "1818-01-01",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "sortie",
+    "year": 1818,
+    "date": "1818-03-11",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1816,
+    "date": "1816-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1818,
+  "phrases": [
+   "Frankenstein ou le Prométhée moderne (Frankenstein; or, The Modern Prometheus) est un roman épistolaire publié anonymement le 1er janvier 1818 par Mary Shelley, et traduit pour la première fois en français par Jules Saladin, en 1821."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Mort de Napoléon à Sainte-Hélène",
+  "year": 1821,
+  "src": "fr:Napoléon Ier",
+  "article": "Napoléon Ier",
+  "description": "militaire, homme d'État et monarque français",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1821,
+    "date": "1821-05-05",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "mort",
+    "year": 1821,
+    "date": "1821-01-01",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1821,
+  "phrases": [
+   "Napoléon Bonaparte, né le 15 août 1769 à Ajaccio en Corse et mort le 5 mai 1821 à Longwood sur l’île de Sainte-Hélène, est un militaire et homme d'État français."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Victoria devient reine du Royaume-Uni",
+  "year": 1837,
+  "src": "fr:Victoria (reine)",
+  "article": "Victoria (reine)",
+  "description": "reine du Royaume-Uni de 1837 à 1901 et impératrice des Indes de 1876 à 1901",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1901,
+    "date": "1901-01-22",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1901,
+  "phrases": [
+   "Victoria, née Alexandrina Victoria le 24 mai 1819 au palais de Kensington à Londres et morte le 22 janvier 1901 à Osborne House sur l'île de Wight, est reine du Royaume-Uni de Grande-Bretagne et d'Irlande du 20 juin 1837 jusqu'à sa mort."
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Première Exposition universelle, à Londres",
+  "year": 1851,
+  "src": "fr:Exposition universelle de 1851",
+  "article": "Exposition universelle de 1851",
+  "description": "première exposition universelle, qui fut organisée à Londres (Angleterre)",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 1851,
+    "date": "1851-05-01",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 1851,
+    "date": "1851-10-15",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1851,
+  "phrases": [
+   "La Great Exhibition of the Works of Industry of all Nations (grande exposition universelle des travaux de l'industrie de toutes les nations) de 1851 est la première des expositions universelles.",
+   "Elle a lieu du 1er mai au 15 octobre 1851 à Londres."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Napoléon III devient empereur des Français",
+  "year": 1852,
+  "src": "fr:Napoléon III",
+  "article": "Napoléon III",
+  "description": "homme d'État français et dernier monarque de France",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1873,
+    "date": "1873-01-09",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1873,
+  "phrases": [
+   "Il est à la fois l'unique président de la Deuxième République, le premier chef d'État français élu au suffrage universel masculin le 10 décembre 1848, le premier président de la République française et, après la proclamation de l'Empire le "
+  ],
+  "status": "TEXTE"
+ },
+ {
+  "card": "Flaubert publie Madame Bovary",
+  "year": 1857,
+  "src": "fr:Madame Bovary",
+  "article": "Madame Bovary",
+  "description": "roman de Gustave Flaubert paru en 1857",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1857,
+    "date": "1857-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1856,
+    "date": "1856-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1857,
+  "phrases": [
+   "Mœurs de province, couramment abrégé en Madame Bovary, est un roman de Gustave Flaubert paru en 1857 chez Michel Lévy frères, après une préparution en 1856 dans la Revue de Paris.",
+   "Le procès de Flaubert, commencé en janvier 1857, fit connaître l’histoire en France.",
+   "Après l'acquittement de l'auteur le 7 février 1857, le roman fut édité en deux volumes le 15 avril 1857 chez Michel Lévy frères."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Big Ben sonne pour la première fois",
+  "year": 1859,
+  "src": "fr:Big Ben",
+  "article": "Big Ben",
+  "description": "tour horloge du Palais de Westminster à Londres",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1843,
+    "date": "1843-09-28",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1858,
+    "date": "1858-04-10",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1843,
+  "phrases": [],
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Début de la guerre de Sécession",
+  "year": 1861,
+  "src": "fr:Guerre de Sécession",
+  "article": "Guerre de Sécession",
+  "description": "guerre civile américaine qui a opposé les États du Sud esclavagistes aux États du Nord abolitionnistes (1861–1865)",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 1861,
+    "date": "1861-04-12",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "date",
+    "year": 1865,
+    "date": "1865-04-12",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 1865,
+    "date": "1865-04-09",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1861,
+  "phrases": [
+   "« la Guerre civile », aux États-Unis) est une guerre civile survenue entre 1861 et 1865 aux États-Unis d'Amérique.",
+   "Les combats commencent le 12 avril 1861, lorsque les forces confédérées attaquent une installation militaire de l'Union à Fort Sumter, dans la baie de Charleston en Caroline du Sud, parce que les soldats nordistes ont refusé de l'évacuer ma"
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Jules Verne publie Voyage au centre de la Terre",
+  "year": 1864,
+  "src": "fr:Voyage au centre de la Terre",
+  "article": "Voyage au centre de la Terre",
+  "description": "roman d'aventures de Jules Verne écrit en 1864",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1864,
+    "date": "1864-11-25",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1864,
+  "phrases": [
+   "Voyage au centre de la Terre est un roman d'aventures, écrit en 1864 par Jules Verne.",
+   "Cette fiction souterraine fut publiée en édition originale in-18 le 25 novembre 1864, puis en grand in-octavo le 13 mai 1867.",
+   "Le texte de 1867 comporte deux chapitres de plus (45 au lieu de 43) que celui de 1864."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Parution d'Alice au pays des merveilles",
+  "year": 1865,
+  "src": "fr:Les Aventures d'Alice au pays des merveilles",
+  "article": "Les Aventures d'Alice au pays des merveilles",
+  "description": "roman de Lewis Carroll publié en 1865",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1865,
+    "date": "1865-11-26",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "sortie",
+    "year": 1865,
+    "date": "1865-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1862,
+    "date": "1862-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1865,
+  "phrases": [
+   "Les Aventures d'Alice au pays des merveilles (titre original : Alice's Adventures in Wonderland), fréquemment abrégé en Alice au pays des merveilles (Alice in Wonderland en anglais), est un roman publié en 1865 par Lewis Carroll."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Premier match international de football, Écosse–Angleterre",
+  "year": 1872,
+  "src": "fr:Écosse - Angleterre (football, 1872)",
+  "status": "ARTICLE-INTROUVABLE"
+ },
+ {
+  "card": "Première de Carmen de Bizet",
+  "year": 1875,
+  "src": "fr:Carmen (opéra)",
+  "article": "Carmen (opéra)",
+  "description": "opéra de Georges Bizet",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1850,
+    "date": "1850-00-00",
+    "precision": 7,
+    "where": []
+   },
+   {
+    "prop": "création",
+    "year": 1875,
+    "date": "1875-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "première",
+    "year": 1875,
+    "date": "1875-03-03",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1875,
+  "phrases": [
+   "Créé le 3 mars 1875 à l'Opéra-Comique sous la direction dans une mise en scène de Charles Ponchard, l'ouvrage ne rencontra pas le succès escompté, ce qui affecta beaucoup son compositeur (mort trois mois plus tard)."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Premier tournoi de Wimbledon",
+  "year": 1877,
+  "src": "fr:Tournoi de Wimbledon 1877",
+  "article": "Tournoi de Wimbledon 1877",
+  "description": "tournoi de tennis",
+  "dates": [
+   {
+    "prop": "début",
+    "year": 1877,
+    "date": "1877-07-09",
+    "precision": 11,
+    "where": []
+   },
+   {
+    "prop": "date",
+    "year": 1877,
+    "date": "1877-00-00",
+    "precision": 9,
+    "where": []
+   },
+   {
+    "prop": "fin",
+    "year": 1877,
+    "date": "1877-07-19",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1877,
+  "phrases": [
+   "Le tournoi de Wimbledon 1877 ou Lawn-tennis championship est un tournoi de tennis masculin.",
+   "En juin 1877, le club décide d'organiser une compétition officielle afin de financer les réparations d'un rouleau agricole nécessaire à l'entretien des courts.",
+   "Le tournoi commence le 9 juillet et la finale, repoussée de trois jours à cause de la pluie, se déroule le 19 juillet 1877 devant environ 200 personnes s'étant chacune acquittée d'un shilling de droit d'entrée."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Edison présente son ampoule électrique",
+  "year": 1879,
+  "src": "fr:Lampe à incandescence",
+  "article": "Lampe à incandescence",
+  "description": "luminaire électrique",
+  "dates": [
+   {
+    "prop": "découverte",
+    "year": 1879,
+    "date": "1879-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1879,
+  "phrases": [],
+  "status": "WD"
+ },
+ {
+  "card": "Première aventure de Sherlock Holmes",
+  "year": 1887,
+  "src": "fr:Une étude en rouge",
+  "article": "Une étude en rouge",
+  "description": "roman policier d'Arthur Conan Doyle, paru en 1887",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1887,
+    "date": "1887-01-01",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1887,
+  "phrases": [
+   "Une étude en rouge, aussi traduit Un crime étrange ou encore Écrit dans le sang (titre original en anglais : A Study in Scarlet), est un roman policier d'Arthur Conan Doyle paru en 1887 dans le Beeton's Christmas Annual avant d'être publié "
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Dunlop invente le pneu à chambre à air",
+  "year": 1888,
+  "src": "fr:John Boyd Dunlop",
+  "article": "John Boyd Dunlop",
+  "description": "inventeur écossais",
+  "dates": [
+   {
+    "prop": "mort",
+    "year": 1921,
+    "date": "1921-10-23",
+    "precision": 11,
+    "where": []
+   }
+  ],
+  "earliest": 1921,
+  "phrases": [],
+  "status": "A-VOIR"
+ },
+ {
+  "card": "Naismith invente le basket-ball",
+  "year": 1891,
+  "src": "fr:Basket-ball",
+  "article": "Basket-ball",
+  "description": "sport de balle collectif",
+  "dates": [
+   {
+    "prop": "création",
+    "year": 1891,
+    "date": "1891-12-00",
+    "precision": 10,
+    "where": []
+   },
+   {
+    "prop": "découverte",
+    "year": 1891,
+    "date": "1891-12-00",
+    "precision": 10,
+    "where": []
+   }
+  ],
+  "earliest": 1891,
+  "phrases": [
+   "James Naismith, un professeur d'éducation sportive originaire du Canada, invente le basket-ball en 1891 dans l'État du Massachusetts (États-Unis) pour maintenir la condition physique de ses élèves durant l'hiver."
+  ],
+  "status": "OK"
+ },
+ {
+  "card": "Zola publie Germinal",
+  "year": 1885,
+  "src": "fr:Germinal (roman)",
+  "article": "Germinal (roman)",
+  "description": "roman d'Émile Zola publié en 1885",
+  "dates": [
+   {
+    "prop": "sortie",
+    "year": 1885,
+    "date": "1885-00-00",
+    "precision": 9,
+    "where": []
+   }
+  ],
+  "earliest": 1885,
+  "phrases": [
+   "Germinal est un roman d'Émile Zola publié en 1885.",
+   "Écrit d'avril 1884 à janvier 1885, le treizième roman de la série des Rougon-Macquart paraît d'abord en feuilleton entre novembre 1884 et février 1885 dans le Gil Blas, l'année de la grande grève des mineurs d'Anzin débutée le 2 mars 1884 e",
+   "Après sa première édition en mars 1885, le roman a été publié dans plus d'une centaine de pays et adapté pour le cinéma et la télévision."
+  ],
+  "status": "OK"
+ }
+]

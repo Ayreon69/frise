@@ -28,7 +28,7 @@ Sont des choix de ce jeu :
 
 ## Les cartes
 
-386 cartes, de la bataille de Marathon (490 av. J.-C.) à aujourd'hui. **Chaque date a été vérifiée une par une** :
+450 cartes, des premiers Jeux olympiques antiques (776 av. J.-C.)  à aujourd'hui, dont 158 avant 1900. **Chaque date a été vérifiée une par une** :
 
 - par la date que donne Wikidata pour l'événement et/ou par une phrase datée de l'article Wikipédia (en français, sinon en anglais) cité pour chaque carte ;
 - une carte dont la date prête à discussion (deux dates selon les sources, un événement étalé sur plusieurs années) est reformulée pour ne viser qu'un seul moment, ou écartée.
@@ -42,7 +42,7 @@ Repères de date des familles ajoutées le 15/11/2026 :
 
 Les films, jeux vidéo et mangas du premier paquet ont rejoint ces familles. Sport et loisirs garde 20 cartes : seul, ce thème se joue à deux avec 3 ou 4 cartes en main.
 
-La liste, ses sources et les décisions prises carte par carte sont dans `data/` (`candidates.json`, `rapport.json`, `candidates-ecrans.json`, `rapport-ecrans.json`, `verifier-ecrans.py`, `construire.py`, qui produit `server/cards.ts`).
+La liste, ses sources et les décisions prises carte par carte sont dans `data/` (`candidates.json`, `rapport.json`, `candidates-ecrans.json`, `rapport-ecrans.json`, `candidates-avant1900.json`, `rapport-avant1900.json`, `verifier-ecrans.py`, `construire.py`, qui produit `server/cards.ts`).
 
 ## Les bots
 
